@@ -1,0 +1,19 @@
+.78646-3001 :1 ;CONNECTOR, MICRO SIM, 6POS; Product Range:78646 Series; Connector Type:Micro SIM; No. of Contacts:6Contacts; Contact Material:Copper Alloy; Contact Plating:Gold Plated Contacts RoHS Compliant: Yes (Alternate Part Number: 884982798830
+"786463001"
+*STM J
+*NGS
+*PNM 1=C1 2=C2 3=C3 4=C5 5=C6 6=C7 7=G1 8=G2 9=G3 10=G4 11=G5 12=G6 13=X1 14=X2
+*PLB 1="VCC (SUPPLY VOLTAGE)" 2="RST (RESET SIGNAL)" 3="CLK (CLOCK SIGNAL)" 4="GND_1" 5="VPP (VARIABLE SUPPLY VOLTAGE)" 6="I/O (DATA INPUT/OUTPUT)" 7="GND_2" 8="GND_3" 9="GND_4" 10="GND_5" 11="GND_6" 12="GND_7" 13="VCC" 14="CLK"
+*MXP 14
+*DFN 78646-3001
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (78646-3001)
+~!Mouser Part Number (538-78646-3001)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/78646-3001?qs=73RpG39PUGjMbv8L71Th0w%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/78646-3001.pdf)
+~!Height (1.55mm)
+~!3D_Model (78646-3001)
+"78646-3001"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

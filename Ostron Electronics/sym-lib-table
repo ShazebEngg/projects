@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "Ostron-Electronics-rescue")(type "Legacy")(uri "${KIPRJMOD}/Ostron Electronics-rescue.lib")(options "")(descr ""))
+  (lib (name "BU2032SM-HD-G")(type "Legacy")(uri "${KIPRJMOD}/BU2032SM-HD-G.lib")(options "")(descr ""))
+  (lib (name "BU2032SM-JJ-MINI-GTR")(type "Legacy")(uri "${KIPRJMOD}/BU2032SM-JJ-MINI-GTR.lib")(options "")(descr ""))
+  (lib (name "CN3791")(type "Legacy")(uri "${KIPRJMOD}/CN3791.lib")(options "")(descr ""))
+  (lib (name "M66FB-03-STD")(type "Legacy")(uri "${KIPRJMOD}/M66FB-03-STD.lib")(options "")(descr ""))
+  (lib (name "MT3608")(type "Legacy")(uri "${KIPRJMOD}/MT3608.lib")(options "")(descr ""))
+  (lib (name "XC6206P332MR")(type "Legacy")(uri "${KIPRJMOD}/XC6206P332MR.lib")(options "")(descr ""))
+  (lib (name "LTC3440EMS")(type "Legacy")(uri "${KIPRJMOD}/LTC3440EMS.lib")(options "")(descr ""))
+  (lib (name "RCLAMP0854P.TCT")(type "Legacy")(uri "${KIPRJMOD}/RCLAMP0854P.TCT.lib")(options "")(descr ""))
+  (lib (name "73251-2201")(type "Legacy")(uri "${KIPRJMOD}/73251-2201/KiCad/73251-2201.lib")(options "")(descr ""))
+  (lib (name "78646-3001")(type "Legacy")(uri "${KIPRJMOD}/78646-3001/KiCad/78646-3001.lib")(options "")(descr ""))
+)

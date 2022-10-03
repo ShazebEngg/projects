@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RCLAMP0854P.TCT
+D ESD Suppressors / TVS Diodes RCLAMP0854P 4LINES 8V SLP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-37/728248.pdf
+$ENDCMP
+#
+#End Doc Library

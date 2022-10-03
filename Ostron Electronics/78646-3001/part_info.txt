@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=78646-3001
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.2
+Released=2020-09-10 11:28:00
+Downloaded=2022-08-16 09:03:06
+3D=Y

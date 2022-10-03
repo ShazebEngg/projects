@@ -1,0 +1,18 @@
+.73251-2201 :1 ;SMA Jack PCB gold plated 50 Ohms 90deg Molex Right Angle 50 Through Hole SMA Connector, jack, Solder Termination
+"73251-2200"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 5
+*DFN 73251-2201
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (73251-2201)
+~!Mouser Part Number (538-73251-2201)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/73251-2201?qs=R7%2FZKp6KZ2ZO8MMVHpUpcA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.molex.com/pdm_docs/sd/732512201_sd.pdf)
+~!Height (-)
+~!3D_Model (73251-2201)
+"73251-2201"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC6206P332MR
+D Low ESR Cap.Compatible Postive Voltage Regulators
+K
+F http://www.torexsemi.com/products/voltage_regulators/data/XC6206.pdf
+$ENDCMP
+#
+#End Doc Library
