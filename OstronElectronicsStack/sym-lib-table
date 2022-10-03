@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "BK-18650-PC6")(type "Legacy")(uri "${KIPRJMOD}/lib/BK-18650-PC6/BK-18650-PC6.lib")(options "")(descr ""))
+  (lib (name "BOB-12009")(type "Legacy")(uri "${KIPRJMOD}/lib/BOB-12009/BOB-12009.lib")(options "")(descr ""))
+  (lib (name "BS-7-BLUE")(type "Legacy")(uri "${KIPRJMOD}/lib/BS-7-BLUE/BS-7-BLUE.lib")(options "")(descr ""))
+  (lib (name "bp")(type "Legacy")(uri "${KIPRJMOD}/lib/blue-pill-kicad-master/bp.lib")(options "")(descr ""))
+  (lib (name "Y17P21221FP")(type "Legacy")(uri "${KIPRJMOD}/lib/Y17P21221FP/Y17P21221FP.lib")(options "")(descr ""))
+  (lib (name "TL2201EEZB")(type "Legacy")(uri "${KIPRJMOD}/lib/TL2201EEZB/TL2201EEZB.lib")(options "")(descr ""))
+  (lib (name "bms")(type "Legacy")(uri "${KIPRJMOD}/lib/bms.lib")(options "")(descr ""))
+  (lib (name "VR_RM065")(type "Legacy")(uri "${KIPRJMOD}/lib/VR/VR_RM065.lib")(options "")(descr ""))
+  (lib (name "OstronElectronicsStack-rescue")(type "Legacy")(uri "${KIPRJMOD}/OstronElectronicsStack-rescue.lib")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VR_RM065
+D CARBON FILM POTENTIOMETER
+K
+F https://www.dipmicro.com/?datasheet=RM065.pdf
+$ENDCMP
+#
+#End Doc Library
