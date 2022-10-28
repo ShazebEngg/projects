@@ -1,0 +1,362 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 555timer-rescue:NE555-Timer U1
+U 1 1 62D90633
+P 5600 3830
+F 0 "U1" H 5850 4210 50  0000 C CNN
+F 1 "NE555" H 5380 4190 50  0000 C CNN
+F 2 "Package_DIP:DIP-8_W7.62mm_LongPads" H 5600 3830 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" H 5600 3830 50  0001 C CNN
+	1    5600 3830
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 62D911D3
+P 6790 4380
+F 0 "D1" V 6836 4301 50  0000 R CNN
+F 1 " IN4007" V 6745 4301 50  0000 R CNN
+F 2 "Diode_THT:D_A-405_P7.62mm_Horizontal" H 6790 4380 50  0001 C CNN
+F 3 "~" H 6790 4380 50  0001 C CNN
+	1    6790 4380
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 62D91703
+P 7480 4350
+F 0 "D2" V 7434 4429 50  0000 L CNN
+F 1 " IN4007" V 7525 4429 50  0000 L CNN
+F 2 "Diode_THT:D_A-405_P7.62mm_Horizontal" H 7480 4350 50  0001 C CNN
+F 3 "~" H 7480 4350 50  0001 C CNN
+	1    7480 4350
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_POT_US RV1
+U 1 1 62D91AF3
+P 7180 4810
+F 0 "RV1" V 6975 4810 50  0000 C CNN
+F 1 "50K" V 7066 4810 50  0000 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal" H 7180 4810 50  0001 C CNN
+F 3 "~" H 7180 4810 50  0001 C CNN
+	1    7180 4810
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 62D91FE9
+P 4220 3720
+F 0 "C1" H 4335 3766 50  0000 L CNN
+F 1 "0.1uF" H 4335 3675 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 4258 3570 50  0001 C CNN
+F 3 "~" H 4220 3720 50  0001 C CNN
+	1    4220 3720
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 62D920F6
+P 4810 4220
+F 0 "C3" H 4925 4266 50  0000 L CNN
+F 1 " 0.1uF" H 4925 4175 50  0000 L CNN
+F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 4848 4070 50  0001 C CNN
+F 3 "~" H 4810 4220 50  0001 C CNN
+	1    4810 4220
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 62D92370
+P 6040 4520
+F 0 "C4" V 5788 4520 50  0000 C CNN
+F 1 " 0.01uF" V 5879 4520 50  0000 C CNN
+F 2 "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm" H 6078 4370 50  0001 C CNN
+F 3 "~" H 6040 4520 50  0001 C CNN
+	1    6040 4520
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:CP C2
+U 1 1 62D92681
+P 4650 3720
+F 0 "C2" H 4768 3766 50  0000 L CNN
+F 1 "470uF" H 4768 3675 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" H 4688 3570 50  0001 C CNN
+F 3 "~" H 4650 3720 50  0001 C CNN
+	1    4650 3720
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R1
+U 1 1 62D92A88
+P 7150 3730
+F 0 "R1" H 7218 3776 50  0000 L CNN
+F 1 "1K" H 7218 3685 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7190 3720 50  0001 C CNN
+F 3 "~" H 7150 3730 50  0001 C CNN
+	1    7150 3730
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+12V #PWR0101
+U 1 1 62D92DB3
+P 5600 2730
+F 0 "#PWR0101" H 5600 2580 50  0001 C CNN
+F 1 "+12V" H 5615 2903 50  0000 C CNN
+F 2 "" H 5600 2730 50  0001 C CNN
+F 3 "" H 5600 2730 50  0001 C CNN
+	1    5600 2730
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 62D9308C
+P 5600 4570
+F 0 "#PWR0102" H 5600 4320 50  0001 C CNN
+F 1 "GND" H 5605 4397 50  0000 C CNN
+F 2 "" H 5600 4570 50  0001 C CNN
+F 3 "" H 5600 4570 50  0001 C CNN
+	1    5600 4570
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Screw_Terminal_01x02 J1
+U 1 1 62D934A8
+P 3490 3840
+F 0 "J1" H 3408 3965 50  0000 C CNN
+F 1 "Screw_Terminal_01x02" H 3570 3741 50  0001 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 3490 3840 50  0001 C CNN
+F 3 "~" H 3490 3840 50  0001 C CNN
+	1    3490 3840
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 2730 5600 3030
+Wire Wire Line
+	3690 3840 3770 3840
+Wire Wire Line
+	3770 3840 3770 3030
+Wire Wire Line
+	3770 3030 4440 3030
+Connection ~ 5600 3030
+Wire Wire Line
+	5600 3030 5600 3430
+Wire Wire Line
+	5600 4570 5600 4520
+Wire Wire Line
+	3690 3940 3770 3940
+Wire Wire Line
+	3770 3940 3770 4430
+Wire Wire Line
+	3770 4430 4440 4430
+Connection ~ 5600 4430
+Wire Wire Line
+	5600 4430 5600 4230
+Wire Wire Line
+	4650 3870 4650 3980
+Wire Wire Line
+	4650 3980 4440 3980
+Wire Wire Line
+	4220 3980 4220 3870
+Wire Wire Line
+	4220 3570 4220 3460
+Wire Wire Line
+	4220 3460 4440 3460
+Wire Wire Line
+	4650 3460 4650 3570
+Wire Wire Line
+	4440 3980 4440 4430
+Connection ~ 4440 3980
+Wire Wire Line
+	4440 3980 4220 3980
+Connection ~ 4440 4430
+Wire Wire Line
+	4440 4430 4810 4430
+Wire Wire Line
+	4440 3460 4440 3030
+Connection ~ 4440 3460
+Wire Wire Line
+	4440 3460 4650 3460
+Connection ~ 4440 3030
+Wire Wire Line
+	4440 3030 4870 3030
+Wire Wire Line
+	7330 4810 7480 4810
+Wire Wire Line
+	7480 4810 7480 4500
+Wire Wire Line
+	7030 4810 6790 4810
+Wire Wire Line
+	6790 4810 6790 4530
+Wire Wire Line
+	6790 4230 6790 4080
+Wire Wire Line
+	6790 4080 7150 4080
+Wire Wire Line
+	7480 4080 7480 4200
+Wire Wire Line
+	7150 3880 7150 3950
+Connection ~ 7150 4080
+Wire Wire Line
+	7150 4080 7480 4080
+Wire Wire Line
+	4810 3830 4810 4070
+Wire Wire Line
+	4810 3830 5100 3830
+Wire Wire Line
+	4810 4370 4810 4430
+Connection ~ 4810 4430
+Wire Wire Line
+	4810 4430 5600 4430
+Wire Wire Line
+	5100 4030 4870 4030
+Wire Wire Line
+	4870 4030 4870 3030
+Connection ~ 4870 3030
+Wire Wire Line
+	4870 3030 5600 3030
+Wire Wire Line
+	6100 4030 6210 4030
+Wire Wire Line
+	6400 4030 6400 4520
+Wire Wire Line
+	6400 5060 7180 5060
+Wire Wire Line
+	7180 5060 7180 4960
+Wire Wire Line
+	5600 4520 5890 4520
+Connection ~ 5600 4520
+Wire Wire Line
+	5600 4520 5600 4430
+Wire Wire Line
+	6190 4520 6400 4520
+Connection ~ 6400 4520
+Wire Wire Line
+	6400 4520 6400 5060
+Wire Wire Line
+	5100 3630 5070 3630
+Wire Wire Line
+	5070 3630 5070 3770
+Wire Wire Line
+	5070 3770 5780 3770
+Wire Wire Line
+	5780 3770 5780 4200
+Wire Wire Line
+	5780 4200 6210 4200
+Wire Wire Line
+	6210 4200 6210 4030
+Connection ~ 6210 4030
+Wire Wire Line
+	6210 4030 6400 4030
+Wire Wire Line
+	6100 3830 6780 3830
+Wire Wire Line
+	6780 3830 6780 3950
+Wire Wire Line
+	6780 3950 7150 3950
+Connection ~ 7150 3950
+Wire Wire Line
+	7150 3950 7150 4080
+Wire Wire Line
+	7150 3030 7150 3580
+$Comp
+L Device:Q_NMOS_GDS Q1
+U 1 1 62DBE315
+P 8350 3620
+F 0 "Q1" H 8556 3666 50  0000 L CNN
+F 1 "Q_NMOS_GDS" H 8556 3575 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 8550 3720 50  0001 C CNN
+F 3 "~" H 8350 3620 50  0001 C CNN
+	1    8350 3620
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 3630 6840 3630
+Wire Wire Line
+	6840 3630 6840 3480
+Wire Wire Line
+	6840 3480 7890 3480
+Wire Wire Line
+	7890 3480 7890 3620
+Wire Wire Line
+	7890 3620 8060 3620
+$Comp
+L Connector:Screw_Terminal_01x02 J2
+U 1 1 62DC379C
+P 9090 3130
+F 0 "J2" H 9008 2897 50  0000 C CNN
+F 1 "Screw_Terminal_01x02" H 9170 3031 50  0001 L CNN
+F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal" H 9090 3130 50  0001 C CNN
+F 3 "~" H 9090 3130 50  0001 C CNN
+	1    9090 3130
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	8450 3820 8450 4320
+$Comp
+L power:GND #PWR0103
+U 1 1 62DC618A
+P 8450 4440
+F 0 "#PWR0103" H 8450 4190 50  0001 C CNN
+F 1 "GND" H 8455 4267 50  0000 C CNN
+F 2 "" H 8450 4440 50  0001 C CNN
+F 3 "" H 8450 4440 50  0001 C CNN
+	1    8450 4440
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R2
+U 1 1 62DC69AA
+P 8060 4070
+F 0 "R2" H 8128 4116 50  0000 L CNN
+F 1 "10K" H 8128 4025 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8100 4060 50  0001 C CNN
+F 3 "~" H 8060 4070 50  0001 C CNN
+	1    8060 4070
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8060 3620 8060 3920
+Connection ~ 8060 3620
+Wire Wire Line
+	8060 3620 8150 3620
+Wire Wire Line
+	8060 4220 8060 4320
+Wire Wire Line
+	8060 4320 8450 4320
+Connection ~ 8450 4320
+Wire Wire Line
+	8450 4320 8450 4440
+Wire Wire Line
+	5600 3030 7150 3030
+Wire Notes Line
+	2870 2050 9770 2050
+Wire Notes Line
+	9770 2050 9770 6110
+Wire Notes Line
+	9770 6110 2870 6110
+Wire Notes Line
+	2870 6110 2870 2050
+Wire Wire Line
+	8890 3030 7150 3030
+Connection ~ 7150 3030
+Wire Wire Line
+	8450 3420 8450 3130
+Wire Wire Line
+	8450 3130 8890 3130
+$EndSCHEMATC

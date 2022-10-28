@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Bolt-my-rescue)(type Legacy)(uri "${KIPRJMOD}/Bolt my-rescue.lib")(options "")(descr ""))
+)

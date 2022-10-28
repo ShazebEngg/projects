@@ -1,0 +1,7 @@
+### Module positions - created on Sat Aug  6 21:24:32 2022 ###
+### Printed by Pcbnew version kicad 5.1.4+dfsg1-1~bpo10+1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+U1        ESP-12F   ESP-12E             38.3540    11.1760  270.0000  top
+## End

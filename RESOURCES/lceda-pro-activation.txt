@@ -1,0 +1,8 @@
+{
+    "username": "sk8228090",
+    "customer_code": "3467547A",
+    "email": "sk8228090@gmail.com",
+    "phone": "",
+    "company": "",
+    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,lKaJdEaDtc+LeE7BRwfw6H8ot0t1mb0+o5eIMYSL0X7qQnq+kTJfDQafICerWDmkSDzgYciTd1I4nWhWFD4vG2JidACh3pJ+IH\/VSXDi++bf5WeC2OOeTsiDh3EEi0Mdq\/JYFjGmK3kvdLQ44bCv9B2QJhWJiZduCNCThRFIpR0="
+}
