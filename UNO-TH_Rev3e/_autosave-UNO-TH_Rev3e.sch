@@ -1,0 +1,3356 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr User 16749 44220
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 1400 40300
+Connection ~ 1600 40800
+Connection ~ 1700 39700
+Connection ~ 2000 39800
+Connection ~ 2300 39300
+Connection ~ 2300 39800
+Connection ~ 2300 40700
+Connection ~ 2300 40800
+Connection ~ 2300 41600
+Connection ~ 2700 38300
+Connection ~ 2700 39700
+Connection ~ 2700 41600
+Connection ~ 3100 38500
+Connection ~ 3200 41600
+Connection ~ 3400 35200
+Connection ~ 3400 35800
+Connection ~ 3800 39600
+Connection ~ 4000 38300
+Connection ~ 4000 41300
+Connection ~ 4100 39800
+Connection ~ 4200 39400
+Connection ~ 4300 38300
+Connection ~ 4300 39200
+Connection ~ 4300 40700
+Connection ~ 4400 39400
+Connection ~ 4400 39800
+Connection ~ 4600 35300
+Connection ~ 4600 39200
+Connection ~ 4600 40200
+Connection ~ 4600 40300
+Connection ~ 4600 41300
+Connection ~ 4700 39400
+Connection ~ 4700 39800
+Connection ~ 4900 38400
+Connection ~ 4900 42300
+Connection ~ 5300 35300
+Connection ~ 5300 38600
+Connection ~ 6400 35500
+Connection ~ 6400 36700
+Connection ~ 7000 36700
+Connection ~ 7300 37800
+Connection ~ 7400 38100
+Connection ~ 7600 38200
+Connection ~ 7700 38300
+Connection ~ 8100 35800
+Connection ~ 8100 40000
+Connection ~ 8100 40400
+Connection ~ 8300 41100
+Connection ~ 8300 41600
+Connection ~ 8400 35300
+Connection ~ 8400 36000
+Connection ~ 8500 39100
+Connection ~ 8700 36700
+Connection ~ 8800 39500
+Connection ~ 8800 39900
+Connection ~ 8900 39000
+Connection ~ 9000 38700
+Connection ~ 9000 39000
+Connection ~ 9000 41100
+Connection ~ 9100 36100
+Connection ~ 9100 38900
+Connection ~ 9100 39400
+Connection ~ 9100 40300
+Connection ~ 9200 37200
+Connection ~ 9200 39500
+Connection ~ 9200 39900
+Connection ~ 9300 40500
+Connection ~ 9300 40800
+Connection ~ 9400 38700
+Connection ~ 9400 39400
+Connection ~ 9400 41900
+Connection ~ 9500 38100
+Connection ~ 9500 38700
+Connection ~ 9500 40600
+Connection ~ 9500 40800
+Connection ~ 9600 37600
+Connection ~ 9700 42100
+Connection ~ 10100 37400
+Connection ~ 10200 35700
+Connection ~ 10700 35500
+Connection ~ 10700 35700
+Connection ~ 11500 39400
+Connection ~ 11600 39500
+Connection ~ 11700 39600
+Connection ~ 11800 37000
+Connection ~ 11800 41500
+Connection ~ 11900 41400
+Connection ~ 12200 35600
+Connection ~ 12200 35700
+Connection ~ 12200 37000
+Connection ~ 12200 37200
+Connection ~ 12500 35700
+Connection ~ 12800 35700
+Connection ~ 13000 38700
+Connection ~ 13000 38800
+Connection ~ 13000 38900
+Connection ~ 13000 39100
+Connection ~ 13000 39200
+Connection ~ 13000 39300
+Connection ~ 13000 39400
+Connection ~ 13000 39500
+Connection ~ 13000 39600
+Connection ~ 13000 40000
+Connection ~ 13000 40100
+Connection ~ 13000 40200
+Connection ~ 13000 40300
+Connection ~ 13000 40400
+Connection ~ 13000 40500
+Connection ~ 13000 40900
+Connection ~ 13000 41000
+Connection ~ 13000 41100
+Connection ~ 13000 41200
+Connection ~ 13000 41300
+Connection ~ 13000 41400
+Connection ~ 13000 41500
+Connection ~ 13000 41600
+Wire Wire Line
+	1300 40200 1300 40300
+Wire Wire Line
+	1300 40300 1400 40300
+Wire Wire Line
+	1400 40300 1400 40200
+Wire Wire Line
+	1400 40800 1400 40300
+Wire Wire Line
+	1600 39600 2300 39600
+Wire Wire Line
+	1600 39700 1700 39700
+Wire Wire Line
+	1600 39900 2000 39900
+Wire Wire Line
+	1600 40600 1600 40800
+Wire Wire Line
+	1600 40800 1400 40800
+Wire Wire Line
+	1700 39200 1700 39700
+Wire Wire Line
+	1700 39700 2700 39700
+Wire Wire Line
+	2000 39200 2000 39800
+Wire Wire Line
+	2000 39800 1600 39800
+Wire Wire Line
+	2000 39900 2000 41600
+Wire Wire Line
+	2000 41600 2300 41600
+Wire Wire Line
+	2300 39200 2300 39300
+Wire Wire Line
+	2300 39300 2400 39300
+Wire Wire Line
+	2300 39600 2300 39300
+Wire Wire Line
+	2300 39800 2000 39800
+Wire Wire Line
+	2300 39800 2300 40100
+Wire Wire Line
+	2300 40700 2300 40500
+Wire Wire Line
+	2300 40700 2300 40800
+Wire Wire Line
+	2300 40800 1600 40800
+Wire Wire Line
+	2300 41000 2300 40800
+Wire Wire Line
+	2300 41400 2300 41600
+Wire Wire Line
+	2300 41600 2700 41600
+Wire Wire Line
+	2500 38300 2700 38300
+Wire Wire Line
+	2500 39000 2500 38300
+Wire Wire Line
+	2600 38400 3400 38400
+Wire Wire Line
+	2600 39100 2600 38400
+Wire Wire Line
+	2700 38000 2700 38300
+Wire Wire Line
+	2700 38300 3400 38300
+Wire Wire Line
+	2700 38500 3100 38500
+Wire Wire Line
+	2700 39200 2700 38500
+Wire Wire Line
+	2700 39700 2700 40100
+Wire Wire Line
+	2700 39700 2900 39700
+Wire Wire Line
+	2700 40500 2700 40700
+Wire Wire Line
+	2700 40700 2300 40700
+Wire Wire Line
+	2700 41500 2700 41600
+Wire Wire Line
+	2700 41600 3200 41600
+Wire Wire Line
+	2900 39600 2900 39700
+Wire Wire Line
+	2900 39800 2300 39800
+Wire Wire Line
+	2900 39800 2900 39900
+Wire Wire Line
+	3000 40300 3000 40900
+Wire Wire Line
+	3000 41300 3000 41200
+Wire Wire Line
+	3100 38000 3100 38500
+Wire Wire Line
+	3100 38500 3400 38500
+Wire Wire Line
+	3200 35200 3400 35200
+Wire Wire Line
+	3200 35800 3400 35800
+Wire Wire Line
+	3200 39300 2800 39300
+Wire Wire Line
+	3200 41000 3200 40700
+Wire Wire Line
+	3200 41300 3200 41600
+Wire Wire Line
+	3200 41600 4000 41600
+Wire Wire Line
+	3300 39600 3300 39700
+Wire Wire Line
+	3300 39700 3500 39700
+Wire Wire Line
+	3300 39900 3400 39900
+Wire Wire Line
+	3400 35100 3400 35200
+Wire Wire Line
+	3400 35200 3700 35200
+Wire Wire Line
+	3400 35900 3400 35800
+Wire Wire Line
+	3400 39900 3400 41000
+Wire Wire Line
+	3400 41000 4800 41000
+Wire Wire Line
+	3500 39700 3500 40900
+Wire Wire Line
+	3700 35200 3700 35400
+Wire Wire Line
+	3700 35700 3700 35800
+Wire Wire Line
+	3700 35800 3400 35800
+Wire Wire Line
+	3700 38300 4000 38300
+Wire Wire Line
+	3700 38500 4000 38500
+Wire Wire Line
+	3700 40800 3700 40600
+Wire Wire Line
+	3700 40800 4800 40800
+Wire Wire Line
+	3800 39600 3800 39400
+Wire Wire Line
+	3800 39800 3800 39600
+Wire Wire Line
+	3900 39900 4100 39900
+Wire Wire Line
+	3900 40200 4200 40200
+Wire Wire Line
+	4000 38300 4000 38000
+Wire Wire Line
+	4000 38300 4300 38300
+Wire Wire Line
+	4000 38500 4000 38700
+Wire Wire Line
+	4000 41100 4800 41100
+Wire Wire Line
+	4000 41300 4000 41100
+Wire Wire Line
+	4000 41600 4000 41300
+Wire Wire Line
+	4100 39900 4100 39800
+Wire Wire Line
+	4100 41300 4000 41300
+Wire Wire Line
+	4200 34700 4600 34700
+Wire Wire Line
+	4200 39400 4100 39400
+Wire Wire Line
+	4200 40200 4200 39400
+Wire Wire Line
+	4300 38300 4300 38500
+Wire Wire Line
+	4300 38300 4600 38300
+Wire Wire Line
+	4300 39200 2700 39200
+Wire Wire Line
+	4300 39200 4300 38900
+Wire Wire Line
+	4300 39500 4400 39400
+Wire Wire Line
+	4300 39700 4400 39800
+Wire Wire Line
+	4300 40700 3200 40700
+Wire Wire Line
+	4300 40700 4300 40600
+Wire Wire Line
+	4400 39400 4200 39400
+Wire Wire Line
+	4400 39400 4700 39400
+Wire Wire Line
+	4400 39800 4100 39800
+Wire Wire Line
+	4400 40200 4600 40200
+Wire Wire Line
+	4500 41300 4600 41300
+Wire Wire Line
+	4600 34700 4600 34800
+Wire Wire Line
+	4600 35200 4600 35300
+Wire Wire Line
+	4600 35300 4600 35400
+Wire Wire Line
+	4600 35300 5300 35300
+Wire Wire Line
+	4600 35900 4600 35800
+Wire Wire Line
+	4600 38300 4600 38600
+Wire Wire Line
+	4600 38800 4600 39200
+Wire Wire Line
+	4600 39200 4300 39200
+Wire Wire Line
+	4600 40200 4600 40300
+Wire Wire Line
+	4600 40300 3000 40300
+Wire Wire Line
+	4600 40400 4600 41300
+Wire Wire Line
+	4600 41400 4600 41300
+Wire Wire Line
+	4700 38500 4700 39000
+Wire Wire Line
+	4700 39000 2500 39000
+Wire Wire Line
+	4700 39400 4700 39500
+Wire Wire Line
+	4700 39500 4800 39500
+Wire Wire Line
+	4700 39800 4400 39800
+Wire Wire Line
+	4700 39800 4800 39800
+Wire Wire Line
+	4700 40000 4700 40200
+Wire Wire Line
+	4700 40200 4600 40200
+Wire Wire Line
+	4800 38600 4800 39100
+Wire Wire Line
+	4800 39100 2600 39100
+Wire Wire Line
+	4800 39200 4600 39200
+Wire Wire Line
+	4800 39800 4800 39700
+Wire Wire Line
+	4800 40000 4700 40000
+Wire Wire Line
+	4800 40300 4600 40300
+Wire Wire Line
+	4800 40400 4600 40400
+Wire Wire Line
+	4800 40700 4300 40700
+Wire Wire Line
+	4800 40900 3500 40900
+Wire Wire Line
+	4800 41300 4600 41300
+Wire Wire Line
+	4900 38400 3700 38400
+Wire Wire Line
+	4900 38400 4900 38100
+Wire Wire Line
+	4900 42300 4900 42200
+Wire Wire Line
+	4900 42300 5200 42300
+Wire Wire Line
+	5000 36700 5600 36700
+Wire Wire Line
+	5200 42300 5200 42200
+Wire Wire Line
+	5300 35100 5300 35300
+Wire Wire Line
+	5300 35300 5400 35300
+Wire Wire Line
+	5300 38600 4800 38600
+Wire Wire Line
+	5300 38600 5300 38100
+Wire Wire Line
+	5400 35400 5400 35300
+Wire Wire Line
+	5500 35400 5400 35400
+Wire Wire Line
+	5500 35600 5100 35600
+Wire Wire Line
+	5900 36200 6400 36200
+Wire Wire Line
+	5900 36500 5900 36200
+Wire Wire Line
+	6000 36700 6400 36700
+Wire Wire Line
+	6400 35300 6400 35500
+Wire Wire Line
+	6400 35500 6100 35500
+Wire Wire Line
+	6400 36200 6400 35500
+Wire Wire Line
+	6400 36700 6400 36600
+Wire Wire Line
+	6400 36700 7000 36700
+Wire Wire Line
+	7000 36700 7400 36700
+Wire Wire Line
+	7000 36900 7000 36700
+Wire Wire Line
+	7000 37100 7000 37200
+Wire Wire Line
+	7000 39000 7300 39000
+Wire Wire Line
+	7000 39100 7400 39100
+Wire Wire Line
+	7000 39200 7600 39200
+Wire Wire Line
+	7000 39300 7700 39300
+Wire Wire Line
+	7000 39400 7900 39400
+Wire Wire Line
+	7000 39500 8000 39500
+Wire Wire Line
+	7000 39600 7800 39600
+Wire Wire Line
+	7000 40600 8100 40600
+Wire Wire Line
+	7000 41000 7600 41000
+Wire Wire Line
+	7100 37800 7300 37800
+Wire Wire Line
+	7100 38100 7400 38100
+Wire Wire Line
+	7200 35900 7300 35900
+Wire Wire Line
+	7200 36100 7200 35900
+Wire Wire Line
+	7300 35700 6800 35700
+Wire Wire Line
+	7300 37600 7300 37800
+Wire Wire Line
+	7300 37800 7300 39000
+Wire Wire Line
+	7400 36900 7000 36900
+Wire Wire Line
+	7400 37100 7000 37100
+Wire Wire Line
+	7400 37500 7700 37500
+Wire Wire Line
+	7400 38100 7400 37500
+Wire Wire Line
+	7400 39100 7400 38100
+Wire Wire Line
+	7500 41100 7000 41100
+Wire Wire Line
+	7500 42100 7500 41100
+Wire Wire Line
+	7600 37600 7300 37600
+Wire Wire Line
+	7600 37800 7600 37600
+Wire Wire Line
+	7600 38200 7600 38100
+Wire Wire Line
+	7600 38200 8100 38200
+Wire Wire Line
+	7600 39200 7600 38200
+Wire Wire Line
+	7600 41000 7600 41900
+Wire Wire Line
+	7600 41900 9400 41900
+Wire Wire Line
+	7700 37500 7700 37800
+Wire Wire Line
+	7700 38300 7700 38100
+Wire Wire Line
+	7700 38300 8200 38300
+Wire Wire Line
+	7700 39300 7700 38300
+Wire Wire Line
+	7800 38600 5300 38600
+Wire Wire Line
+	7800 39600 7800 38600
+Wire Wire Line
+	7800 40000 8100 40000
+Wire Wire Line
+	7800 40900 7000 40900
+Wire Wire Line
+	7800 41600 7800 40900
+Wire Wire Line
+	7900 35800 8100 35800
+Wire Wire Line
+	7900 38500 4700 38500
+Wire Wire Line
+	7900 39400 7900 38500
+Wire Wire Line
+	7900 40800 7000 40800
+Wire Wire Line
+	7900 41100 7900 40800
+Wire Wire Line
+	7900 41600 7800 41600
+Wire Wire Line
+	8000 38400 4900 38400
+Wire Wire Line
+	8000 39500 8000 38400
+Wire Wire Line
+	8100 35300 8100 35800
+Wire Wire Line
+	8100 35800 8100 36100
+Wire Wire Line
+	8100 36100 7200 36100
+Wire Wire Line
+	8100 37900 8200 37900
+Wire Wire Line
+	8100 38200 8100 37900
+Wire Wire Line
+	8100 40000 8100 39100
+Wire Wire Line
+	8100 40400 8100 40000
+Wire Wire Line
+	8100 40600 8100 40400
+Wire Wire Line
+	8200 38300 8200 38200
+Wire Wire Line
+	8200 39100 8100 39100
+Wire Wire Line
+	8200 40400 8100 40400
+Wire Wire Line
+	8300 36700 8700 36700
+Wire Wire Line
+	8300 41000 8300 41100
+Wire Wire Line
+	8300 41100 8200 41100
+Wire Wire Line
+	8300 41500 8300 41600
+Wire Wire Line
+	8300 41600 8200 41600
+Wire Wire Line
+	8400 35200 8400 35300
+Wire Wire Line
+	8400 35300 8100 35300
+Wire Wire Line
+	8400 35500 8400 35300
+Wire Wire Line
+	8400 35900 8400 36000
+Wire Wire Line
+	8400 36000 8700 36000
+Wire Wire Line
+	8400 36400 8400 36300
+Wire Wire Line
+	8400 41100 8300 41100
+Wire Wire Line
+	8400 41600 8300 41600
+Wire Wire Line
+	8500 39100 8500 38800
+Wire Wire Line
+	8500 39100 8900 39100
+Wire Wire Line
+	8500 39700 8300 39700
+Wire Wire Line
+	8600 40250 8600 40300
+Wire Wire Line
+	8600 40300 8700 40300
+Wire Wire Line
+	8700 36000 8700 35900
+Wire Wire Line
+	8700 36600 8700 36700
+Wire Wire Line
+	8700 36700 8700 36800
+Wire Wire Line
+	8700 37200 8700 37100
+Wire Wire Line
+	8800 39500 9200 39500
+Wire Wire Line
+	8800 39600 8800 39500
+Wire Wire Line
+	8800 39900 8400 39900
+Wire Wire Line
+	8800 39900 8800 39800
+Wire Wire Line
+	8800 41100 9000 41100
+Wire Wire Line
+	8800 41600 9000 41600
+Wire Wire Line
+	8900 39000 8900 38800
+Wire Wire Line
+	8900 39000 9000 39000
+Wire Wire Line
+	8900 39100 8900 39000
+Wire Wire Line
+	9000 37200 9200 37200
+Wire Wire Line
+	9000 38700 9000 37200
+Wire Wire Line
+	9000 39000 9000 38700
+Wire Wire Line
+	9000 39000 9000 39400
+Wire Wire Line
+	9000 40500 9100 40500
+Wire Wire Line
+	9000 41100 9000 41000
+Wire Wire Line
+	9000 41100 9000 41600
+Wire Wire Line
+	9100 35900 9100 36100
+Wire Wire Line
+	9100 36100 9100 36300
+Wire Wire Line
+	9100 36100 9900 36100
+Wire Wire Line
+	9100 38900 9400 38900
+Wire Wire Line
+	9100 39300 9100 39400
+Wire Wire Line
+	9100 39400 9000 39400
+Wire Wire Line
+	9100 40300 9100 40200
+Wire Wire Line
+	9100 40500 9100 40300
+Wire Wire Line
+	9200 37100 9200 37200
+Wire Wire Line
+	9200 37200 10400 37200
+Wire Wire Line
+	9200 39500 9400 39500
+Wire Wire Line
+	9200 39900 8800 39900
+Wire Wire Line
+	9300 40500 9300 40400
+Wire Wire Line
+	9300 40800 9000 40800
+Wire Wire Line
+	9400 38100 9400 38200
+Wire Wire Line
+	9400 38100 9500 38100
+Wire Wire Line
+	9400 38600 9400 38700
+Wire Wire Line
+	9400 38700 9000 38700
+Wire Wire Line
+	9400 38900 9400 39000
+Wire Wire Line
+	9400 39200 9400 39400
+Wire Wire Line
+	9400 39400 9100 39400
+Wire Wire Line
+	9400 39500 9400 39700
+Wire Wire Line
+	9400 39700 9700 39700
+Wire Wire Line
+	9400 41900 10400 41900
+Wire Wire Line
+	9400 42200 9400 41900
+Wire Wire Line
+	9500 35900 10200 35900
+Wire Wire Line
+	9500 37400 9500 37000
+Wire Wire Line
+	9500 38100 9500 38200
+Wire Wire Line
+	9500 38100 10500 38100
+Wire Wire Line
+	9500 38600 9500 38700
+Wire Wire Line
+	9500 38700 9400 38700
+Wire Wire Line
+	9500 40300 9500 40600
+Wire Wire Line
+	9500 40600 9700 40600
+Wire Wire Line
+	9500 40800 9300 40800
+Wire Wire Line
+	9500 40800 9500 40600
+Wire Wire Line
+	9500 40800 9600 40800
+Wire Wire Line
+	9600 37500 9600 37600
+Wire Wire Line
+	9600 37600 9600 37700
+Wire Wire Line
+	9600 40800 9600 40900
+Wire Wire Line
+	9700 39400 9400 39400
+Wire Wire Line
+	9700 39900 9200 39900
+Wire Wire Line
+	9700 40100 9400 40100
+Wire Wire Line
+	9700 40200 9100 40200
+Wire Wire Line
+	9700 40300 9500 40300
+Wire Wire Line
+	9700 40500 9300 40500
+Wire Wire Line
+	9700 42100 7500 42100
+Wire Wire Line
+	9700 42200 9700 42100
+Wire Wire Line
+	9800 37700 10400 37700
+Wire Wire Line
+	9900 36100 9900 35500
+Wire Wire Line
+	10100 37100 10100 37400
+Wire Wire Line
+	10100 37400 9500 37400
+Wire Wire Line
+	10200 35300 10200 35700
+Wire Wire Line
+	10200 35900 10200 35700
+Wire Wire Line
+	10200 38500 10200 39200
+Wire Wire Line
+	10200 39200 11600 39200
+Wire Wire Line
+	10400 35700 10700 35700
+Wire Wire Line
+	10400 37100 10100 37100
+Wire Wire Line
+	10400 37300 9600 37300
+Wire Wire Line
+	10400 37400 10100 37400
+Wire Wire Line
+	10400 37500 9600 37500
+Wire Wire Line
+	10400 37600 9600 37600
+Wire Wire Line
+	10400 38600 10400 39100
+Wire Wire Line
+	10400 39100 11500 39100
+Wire Wire Line
+	10400 42100 9700 42100
+Wire Wire Line
+	10700 35300 10700 35500
+Wire Wire Line
+	10700 35700 10700 35500
+Wire Wire Line
+	10700 35800 10700 35700
+Wire Wire Line
+	10700 36200 10700 36100
+Wire Wire Line
+	10700 38500 10200 38500
+Wire Wire Line
+	10700 38600 10400 38600
+Wire Wire Line
+	10700 38700 9500 38700
+Wire Wire Line
+	10800 42100 11900 42100
+Wire Wire Line
+	11000 38600 11700 38600
+Wire Wire Line
+	11100 35500 10700 35500
+Wire Wire Line
+	11200 39400 11500 39400
+Wire Wire Line
+	11200 39700 12500 39700
+Wire Wire Line
+	11200 39900 12700 39900
+Wire Wire Line
+	11200 40100 12200 40100
+Wire Wire Line
+	11200 40300 12400 40300
+Wire Wire Line
+	11200 40500 12600 40500
+Wire Wire Line
+	11200 40800 12700 40800
+Wire Wire Line
+	11200 41000 12500 41000
+Wire Wire Line
+	11200 41200 12300 41200
+Wire Wire Line
+	11200 41400 11900 41400
+Wire Wire Line
+	11300 38700 11000 38700
+Wire Wire Line
+	11400 36200 11400 35900
+Wire Wire Line
+	11400 38400 11400 38500
+Wire Wire Line
+	11400 38500 11000 38500
+Wire Wire Line
+	11500 39100 11500 39400
+Wire Wire Line
+	11500 39400 11800 39400
+Wire Wire Line
+	11600 39200 11600 39500
+Wire Wire Line
+	11600 39500 11200 39500
+Wire Wire Line
+	11600 39500 12300 39500
+Wire Wire Line
+	11700 38600 11700 39600
+Wire Wire Line
+	11700 39600 11200 39600
+Wire Wire Line
+	11800 35500 12200 35500
+Wire Wire Line
+	11800 35600 12200 35600
+Wire Wire Line
+	11800 37000 11800 36800
+Wire Wire Line
+	11800 37200 11800 37000
+Wire Wire Line
+	11800 39100 13000 39100
+Wire Wire Line
+	11800 39400 11800 39100
+Wire Wire Line
+	11800 41500 11200 41500
+Wire Wire Line
+	11800 41900 10800 41900
+Wire Wire Line
+	11800 41900 11800 41500
+Wire Wire Line
+	11900 38200 11900 38300
+Wire Wire Line
+	11900 38600 11900 38900
+Wire Wire Line
+	11900 38900 13000 38900
+Wire Wire Line
+	11900 41400 12100 41400
+Wire Wire Line
+	11900 42100 11900 41400
+Wire Wire Line
+	12000 41500 11800 41500
+Wire Wire Line
+	12000 41600 12000 41500
+Wire Wire Line
+	12100 41400 12100 41500
+Wire Wire Line
+	12100 41500 13000 41500
+Wire Wire Line
+	12200 35500 12200 35600
+Wire Wire Line
+	12200 35600 12200 35700
+Wire Wire Line
+	12200 35700 12500 35700
+Wire Wire Line
+	12200 35800 12200 35700
+Wire Wire Line
+	12200 36100 12200 36200
+Wire Wire Line
+	12200 37200 12200 37000
+Wire Wire Line
+	12200 37200 12200 37400
+Wire Wire Line
+	12200 40000 13000 40000
+Wire Wire Line
+	12200 40100 12200 40000
+Wire Wire Line
+	12200 41300 11200 41300
+Wire Wire Line
+	12200 41400 12200 41300
+Wire Wire Line
+	12300 37000 12200 37000
+Wire Wire Line
+	12300 39200 13000 39200
+Wire Wire Line
+	12300 39500 12300 39200
+Wire Wire Line
+	12300 40100 12300 40200
+Wire Wire Line
+	12300 40200 11200 40200
+Wire Wire Line
+	12300 41200 12300 41300
+Wire Wire Line
+	12300 41300 13000 41300
+Wire Wire Line
+	12400 39300 12400 39600
+Wire Wire Line
+	12400 39600 11700 39600
+Wire Wire Line
+	12400 40200 13000 40200
+Wire Wire Line
+	12400 40300 12400 40200
+Wire Wire Line
+	12400 41100 11200 41100
+Wire Wire Line
+	12400 41200 12400 41100
+Wire Wire Line
+	12500 35500 12500 35700
+Wire Wire Line
+	12500 35700 12800 35700
+Wire Wire Line
+	12500 39400 13000 39400
+Wire Wire Line
+	12500 39700 12500 39400
+Wire Wire Line
+	12500 40300 12500 40400
+Wire Wire Line
+	12500 40400 11200 40400
+Wire Wire Line
+	12500 41000 12500 41100
+Wire Wire Line
+	12500 41100 13000 41100
+Wire Wire Line
+	12600 39500 12600 39800
+Wire Wire Line
+	12600 39800 11200 39800
+Wire Wire Line
+	12600 40400 13000 40400
+Wire Wire Line
+	12600 40500 12600 40400
+Wire Wire Line
+	12600 40900 11200 40900
+Wire Wire Line
+	12600 41000 12600 40900
+Wire Wire Line
+	12700 37000 12600 37000
+Wire Wire Line
+	12700 39600 13000 39600
+Wire Wire Line
+	12700 39900 12700 39600
+Wire Wire Line
+	12700 40500 12700 40600
+Wire Wire Line
+	12700 40600 11200 40600
+Wire Wire Line
+	12700 40800 12700 40900
+Wire Wire Line
+	12700 40900 13000 40900
+Wire Wire Line
+	12800 35700 12800 35600
+Wire Wire Line
+	12800 35700 12800 35800
+Wire Wire Line
+	12800 35700 13000 35700
+Wire Wire Line
+	12800 36100 12800 36200
+Wire Wire Line
+	13000 35700 13000 35600
+Wire Wire Line
+	13000 38700 12300 38700
+Wire Wire Line
+	13000 38700 13800 38700
+Wire Wire Line
+	13000 38800 12200 38800
+Wire Wire Line
+	13000 38800 13500 38800
+Wire Wire Line
+	13000 38900 14000 38900
+Wire Wire Line
+	13000 39000 12000 39000
+Wire Wire Line
+	13000 39200 13500 39200
+Wire Wire Line
+	13000 39300 12400 39300
+Wire Wire Line
+	13000 39300 13800 39300
+Wire Wire Line
+	13000 39500 12600 39500
+Wire Wire Line
+	13000 39500 13800 39500
+Wire Wire Line
+	13000 40100 12300 40100
+Wire Wire Line
+	13000 40300 12500 40300
+Wire Wire Line
+	13000 40500 12700 40500
+Wire Wire Line
+	13000 40900 13800 40900
+Wire Wire Line
+	13000 41000 12600 41000
+Wire Wire Line
+	13000 41100 13800 41100
+Wire Wire Line
+	13000 41200 12400 41200
+Wire Wire Line
+	13000 41300 13800 41300
+Wire Wire Line
+	13000 41400 12200 41400
+Wire Wire Line
+	13000 41500 13800 41500
+Wire Wire Line
+	13000 41600 12000 41600
+Wire Wire Line
+	13500 39400 13000 39400
+Wire Wire Line
+	13500 39600 13000 39600
+Wire Wire Line
+	13500 40100 13000 40100
+Wire Wire Line
+	13500 40300 13000 40300
+Wire Wire Line
+	13500 40500 13000 40500
+Wire Wire Line
+	13500 41000 13000 41000
+Wire Wire Line
+	13500 41200 13000 41200
+Wire Wire Line
+	13500 41400 13000 41400
+Wire Wire Line
+	13500 41600 13000 41600
+Wire Wire Line
+	13800 39100 13000 39100
+Wire Wire Line
+	13800 40000 13000 40000
+Wire Wire Line
+	13800 40200 13000 40200
+Wire Wire Line
+	13800 40400 13000 40400
+Text Notes 1875 37500 0    215  ~ 0
+Arduino(TM) UNO Rev3
+Text Notes 7600 40500 0    59   ~ 0
+USB boot En
+Text Notes 13175 40950 0    59   ~ 0
+7
+Text Notes 13175 41050 0    59   ~ 0
+6
+Text Notes 13175 41150 0    59   ~ 0
+5
+Text Notes 13175 41250 0    59   ~ 0
+4
+Text Notes 13175 41350 0    59   ~ 0
+3
+Text Notes 13175 41450 0    59   ~ 0
+2
+Text Notes 13175 41550 0    59   ~ 0
+1
+Text Notes 13175 41650 0    59   ~ 0
+0
+Text Notes 13200 38700 0    59   ~ 0
+SCL
+Text Notes 13200 38800 0    59   ~ 0
+SDA
+Text Notes 13275 39150 0    59   ~ 0
+13
+Text Notes 13275 39250 0    59   ~ 0
+12
+Text Notes 13275 39350 0    59   ~ 0
+11
+Text Notes 13275 39450 0    59   ~ 0
+10
+Text Notes 13275 39550 0    59   ~ 0
+9
+Text Notes 13275 39650 0    59   ~ 0
+8
+Text Label 1600 40800 0    70   ~ 0
+USHIELD
+Text Label 1800 39600 0    70   ~ 0
+XUSB
+Text Label 2000 40400 1    70   ~ 0
+UGND
+Text Label 2500 39700 0    70   ~ 0
+D-
+Text Label 2500 39800 0    70   ~ 0
+D+
+Text Label 2700 38300 0    70   ~ 0
+MISO2
+Text Label 2800 38400 0    70   ~ 0
+SCK2
+Text Label 2800 39300 0    70   ~ 0
+USBVCC
+Text Label 2825 38500 0    70   ~ 0
+RESET2
+Text Label 3000 41300 0    10   ~ 0
+GND
+Text Label 3300 39700 0    70   ~ 0
+RD-
+Text Label 3300 39900 0    70   ~ 0
+RD+
+Text Label 3400 35100 0    10   ~ 0
++5V
+Text Label 3400 35900 0    10   ~ 0
+GND
+Text Label 3700 38500 0    10   ~ 0
+GND
+Text Label 3800 39800 0    10   ~ 0
+GND
+Text Label 3900 39200 0    70   ~ 0
+RESET2
+Text Label 4100 38400 0    70   ~ 0
+MOSI2
+Text Label 4100 39400 0    70   ~ 0
+XT2
+Text Label 4100 39800 0    70   ~ 0
+XT1
+Text Label 4100 41100 0    70   ~ 0
+UGND
+Text Label 4125 40700 0    70   ~ 0
+TP_VUCAP
+Text Label 4125 40800 0    70   ~ 0
+USBVCC
+Text Label 4125 40900 0    70   ~ 0
+RD-
+Text Label 4125 41000 0    70   ~ 0
+RD+
+Text Label 4275 34700 0    70   ~ 0
+VIN
+Text Label 4300 38300 0    10   ~ 0
++5V
+Text Label 4600 35900 0    10   ~ 0
+GND
+Text Label 4800 39800 0    70   ~ 0
+XT1
+Text Label 4800 40300 0    10   ~ 0
++5V
+Text Label 4800 40400 0    10   ~ 0
+GND
+Text Label 4900 42300 0    10   ~ 0
+GND
+Text Label 5000 35300 0    70   ~ 0
+CMP
+Text Label 5125 35600 0    70   ~ 0
++3V3
+Text Label 5200 36700 0    70   ~ 0
+USBVCC
+Text Label 6000 36700 0    70   ~ 0
++5V
+Text Label 6400 36200 1    70   ~ 0
+GATE_CMD
+Text Label 6900 35700 0    70   ~ 0
+SCK
+Text Label 7000 40600 1    70   ~ 0
+DTR
+Text Label 7050 39400 0    70   ~ 0
+MISO2
+Text Label 7050 39500 0    70   ~ 0
+MOSI2
+Text Label 7050 39600 0    70   ~ 0
+SCK2
+Text Label 7050 41000 0    70   ~ 0
+M8RXD
+Text Label 7050 41100 0    70   ~ 0
+M8TXD
+Text Label 7100 39000 0    70   ~ 0
+PB7
+Text Label 7100 39100 0    70   ~ 0
+PB6
+Text Label 7100 39200 0    70   ~ 0
+PB5
+Text Label 7100 39300 0    70   ~ 0
+PB4
+Text Label 7100 40800 0    70   ~ 0
+TXLED
+Text Label 7100 40900 0    70   ~ 0
+RXLED
+Text Label 7400 37100 0    10   ~ 0
+GND
+Text Label 8100 35300 0    70   ~ 0
+L13
+Text Label 8300 36700 0    70   ~ 0
++3V3
+Text Label 8400 36400 0    10   ~ 0
+GND
+Text Label 8500 39700 0    10   ~ 0
+GND
+Text Label 8600 40250 0    10   ~ 0
++5V
+Text Label 8700 37200 0    10   ~ 0
+GND
+Text Label 8800 39600 0    70   ~ 0
+XTAL2
+Text Label 8800 39900 0    70   ~ 0
+XTAL1
+Text Label 9000 41100 0    10   ~ 0
++5V
+Text Label 9100 35900 0    10   ~ 0
+GND
+Text Label 9100 38900 0    10   ~ 0
++5V
+Text Label 9250 39400 0    70   ~ 0
+RESET
+Text Label 9350 40200 0    70   ~ 0
+AVCC
+Text Label 9400 38100 0    10   ~ 0
+GND
+Text Label 9400 40100 0    70   ~ 0
+AREF
+Text Label 9500 37400 0    10   ~ 0
++5V
+Text Label 9500 40800 0    10   ~ 0
+GND
+Text Label 9600 35900 0    70   ~ 0
+PWRIN
+Text Label 9600 37200 0    66   ~ 0
+RESET
+Text Label 9600 37500 0    10   ~ 0
+GND
+Text Label 9650 37300 0    70   ~ 0
++3V3
+Text Label 9700 40500 0    10   ~ 0
++5V
+Text Label 9800 37700 0    70   ~ 0
+VIN
+Text Label 9800 41900 0    70   ~ 0
+M8RXD
+Text Label 9800 42100 0    70   ~ 0
+M8TXD
+Text Label 10700 36200 0    10   ~ 0
+GND
+Text Label 10800 35500 0    70   ~ 0
+VIN
+Text Label 11300 38700 0    10   ~ 0
+GND
+Text Label 11400 36200 0    10   ~ 0
+GND
+Text Label 11400 38400 0    10   ~ 0
++5V
+Text Label 11400 39700 0    70   ~ 0
+SS
+Text Label 11400 39800 0    70   ~ 0
+IO9
+Text Label 11400 39900 0    70   ~ 0
+IO8
+Text Label 11400 40100 0    70   ~ 0
+AD5/SCL
+Text Label 11400 40200 0    70   ~ 0
+AD4/SDA
+Text Label 11400 40300 0    70   ~ 0
+AD3
+Text Label 11400 40400 0    70   ~ 0
+AD2
+Text Label 11400 40500 0    70   ~ 0
+AD1
+Text Label 11400 40600 0    70   ~ 0
+AD0
+Text Label 11400 40800 0    70   ~ 0
+IO7
+Text Label 11400 40900 0    70   ~ 0
+IO6
+Text Label 11400 41000 0    70   ~ 0
+IO5
+Text Label 11400 41100 0    70   ~ 0
+IO4
+Text Label 11400 41200 0    70   ~ 0
+IO3
+Text Label 11400 41300 0    70   ~ 0
+IO2
+Text Label 11400 41400 0    70   ~ 0
+IO1
+Text Label 11400 41500 0    70   ~ 0
+IO0
+Text Label 11800 37200 0    10   ~ 0
++5V
+Text Label 11900 38200 0    10   ~ 0
+GND
+Text Label 12000 38900 0    70   ~ 0
+AREF
+Text Label 12025 39000 0    70   ~ 0
+GND
+Text Label 12200 36100 0    10   ~ 0
+GND
+Text Label 12425 39100 0    70   ~ 0
+SCK
+Text Label 12425 39200 0    70   ~ 0
+MISO
+Text Label 12450 39300 0    70   ~ 0
+MOSI
+Text Label 12500 35550 0    70   ~ 0
++5V
+Text Label 12500 38700 0    70   ~ 0
+AD5/SCL
+Text Label 12500 38800 0    70   ~ 0
+AD4/SDA
+Text Label 12525 39400 0    70   ~ 0
+SS
+Text Label 12700 37000 0    10   ~ 0
+GND
+Text Label 12800 36100 0    10   ~ 0
+GND
+Text GLabel 9300 38200 0    10   BiDi ~ 0
+5-GND
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 885EC1C6
+P 1600 40600
+AR Path="/885EC1C6" Ref=""  Part="1" 
+AR Path="/885EC1C6" Ref="TP_USH1"  Part="1" 
+F 0 "TP_USH1" V 1800 40700 42  0000 R TNN
+F 1 "TP_SP" H 1600 40600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 1600 40600 50  0001 C CNN
+F 3 "" H 1600 40600 50  0001 C CNN
+	1    1600 40600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 B4BA5254
+P 1700 39200
+AR Path="/B4BA5254" Ref=""  Part="1" 
+AR Path="/B4BA5254" Ref="TP_D-1"  Part="1" 
+F 0 "TP_D-1" V 1900 39300 42  0000 R TNN
+F 1 "TP_SP" H 1700 39200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 1700 39200 50  0001 C CNN
+F 3 "" H 1700 39200 50  0001 C CNN
+	1    1700 39200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 11CD9689
+P 2000 39200
+AR Path="/11CD9689" Ref=""  Part="1" 
+AR Path="/11CD9689" Ref="TP_D+1"  Part="1" 
+F 0 "TP_D+1" V 2200 39300 42  0000 R TNN
+F 1 "TP_SP" H 2000 39200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 2000 39200 50  0001 C CNN
+F 3 "" H 2000 39200 50  0001 C CNN
+	1    2000 39200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 23D314A3
+P 2300 39200
+AR Path="/23D314A3" Ref=""  Part="1" 
+AR Path="/23D314A3" Ref="TP_XUSB1"  Part="1" 
+F 0 "TP_XUSB1" V 2500 39300 42  0000 R TNN
+F 1 "TP_SP" H 2300 39200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 2300 39200 50  0001 C CNN
+F 3 "" H 2300 39200 50  0001 C CNN
+	1    2300 39200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 1C7104FC
+P 2700 38000
+AR Path="/1C7104FC" Ref=""  Part="1" 
+AR Path="/1C7104FC" Ref="TP_MISO2"  Part="1" 
+F 0 "TP_MISO2" V 2900 38100 42  0000 R TNN
+F 1 "TP_SP" H 2700 38000 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 2700 38000 50  0001 C CNN
+F 3 "" H 2700 38000 50  0001 C CNN
+	1    2700 38000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 74185F44
+P 2700 41500
+AR Path="/74185F44" Ref=""  Part="1" 
+AR Path="/74185F44" Ref="TP_UGND1"  Part="1" 
+F 0 "TP_UGND1" V 2900 41600 42  0000 R TNN
+F 1 "TP_SP" H 2700 41500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 2700 41500 50  0001 C CNN
+F 3 "" H 2700 41500 50  0001 C CNN
+	1    2700 41500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 413730B6
+P 3100 38000
+AR Path="/413730B6" Ref=""  Part="1" 
+AR Path="/413730B6" Ref="TP_RESET2"  Part="1" 
+F 0 "TP_RESET2" V 3300 38100 42  0000 R TNN
+F 1 "TP_SP" H 3100 38000 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 3100 38000 50  0001 C CNN
+F 3 "" H 3100 38000 50  0001 C CNN
+	1    3100 38000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 E3339802
+P 3700 40600
+AR Path="/E3339802" Ref=""  Part="1" 
+AR Path="/E3339802" Ref="TP_USBVCC1"  Part="1" 
+F 0 "TP_USBVCC1" V 3900 40700 42  0000 R TNN
+F 1 "TP_SP" H 3700 40600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 3700 40600 50  0001 C CNN
+F 3 "" H 3700 40600 50  0001 C CNN
+	1    3700 40600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 C0E652CA
+P 3900 39900
+AR Path="/C0E652CA" Ref=""  Part="1" 
+AR Path="/C0E652CA" Ref="TP_XT3"  Part="1" 
+F 0 "TP_XT3" V 4100 40000 42  0000 R TNN
+F 1 "TP_SP" H 3900 39900 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 3900 39900 50  0001 C CNN
+F 3 "" H 3900 39900 50  0001 C CNN
+	1    3900 39900
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 6B622143
+P 3900 40200
+AR Path="/6B622143" Ref=""  Part="1" 
+AR Path="/6B622143" Ref="TP_XT4"  Part="1" 
+F 0 "TP_XT4" V 4100 40300 42  0000 R TNN
+F 1 "TP_SP" H 3900 40200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 3900 40200 50  0001 C CNN
+F 3 "" H 3900 40200 50  0001 C CNN
+	1    3900 40200
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 854B8945
+P 4300 40600
+AR Path="/854B8945" Ref=""  Part="1" 
+AR Path="/854B8945" Ref="TP_VUCAP1"  Part="1" 
+F 0 "TP_VUCAP1" V 4500 40700 42  0000 R TNN
+F 1 "TP_SP" H 4300 40600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 4300 40600 50  0001 C CNN
+F 3 "" H 4300 40600 50  0001 C CNN
+	1    4300 40600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 1D76E561
+P 4300 42500
+AR Path="/1D76E561" Ref=""  Part="1" 
+AR Path="/1D76E561" Ref="ORIGIN1"  Part="1" 
+F 0 "ORIGIN1" V 4500 42600 42  0000 R TNN
+F 1 "TP_SP" H 4300 42500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 4300 42500 50  0001 C CNN
+F 3 "" H 4300 42500 50  0001 C CNN
+	1    4300 42500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 6C8DCBAA
+P 4900 38100
+AR Path="/6C8DCBAA" Ref=""  Part="1" 
+AR Path="/6C8DCBAA" Ref="TP_MOSI2"  Part="1" 
+F 0 "TP_MOSI2" V 5100 38200 42  0000 R TNN
+F 1 "TP_SP" H 4900 38100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 4900 38100 50  0001 C CNN
+F 3 "" H 4900 38100 50  0001 C CNN
+	1    4900 38100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 44EBC3CC
+P 4900 42200
+AR Path="/44EBC3CC" Ref=""  Part="1" 
+AR Path="/44EBC3CC" Ref="GND_TP2"  Part="1" 
+F 0 "GND_TP2" V 5100 42300 42  0000 R TNN
+F 1 "TP_SP" H 4900 42200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 4900 42200 50  0001 C CNN
+F 3 "" H 4900 42200 50  0001 C CNN
+	1    4900 42200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 680E1467
+P 5200 42200
+AR Path="/680E1467" Ref=""  Part="1" 
+AR Path="/680E1467" Ref="GND_TP1"  Part="1" 
+F 0 "GND_TP1" V 5400 42300 42  0000 R TNN
+F 1 "TP_SP" H 5200 42200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 5200 42200 50  0001 C CNN
+F 3 "" H 5200 42200 50  0001 C CNN
+	1    5200 42200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 04EF09B5
+P 5300 35100
+AR Path="/04EF09B5" Ref=""  Part="1" 
+AR Path="/04EF09B5" Ref="TP_CMP1"  Part="1" 
+F 0 "TP_CMP1" V 5500 35200 42  0000 R TNN
+F 1 "TP_SP" H 5300 35100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 5300 35100 50  0001 C CNN
+F 3 "" H 5300 35100 50  0001 C CNN
+	1    5300 35100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 00D45878
+P 5300 38100
+AR Path="/00D45878" Ref=""  Part="1" 
+AR Path="/00D45878" Ref="TP_SCK2"  Part="1" 
+F 0 "TP_SCK2" V 5500 38200 42  0000 R TNN
+F 1 "TP_SP" H 5300 38100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 5300 38100 50  0001 C CNN
+F 3 "" H 5300 38100 50  0001 C CNN
+	1    5300 38100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 AD4328B6
+P 6400 35300
+AR Path="/AD4328B6" Ref=""  Part="1" 
+AR Path="/AD4328B6" Ref="TP_GATE1"  Part="1" 
+F 0 "TP_GATE1" V 6600 35400 42  0000 R TNN
+F 1 "TP_SP" H 6400 35300 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 6400 35300 50  0001 C CNN
+F 3 "" H 6400 35300 50  0001 C CNN
+	1    6400 35300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 96B4457E
+P 7100 37800
+AR Path="/96B4457E" Ref=""  Part="1" 
+AR Path="/96B4457E" Ref="TP_PB7"  Part="1" 
+F 0 "TP_PB7" V 7300 37900 42  0000 R TNN
+F 1 "TP_SP" H 7100 37800 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 7100 37800 50  0001 C CNN
+F 3 "" H 7100 37800 50  0001 C CNN
+	1    7100 37800
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 E255400A
+P 7100 38100
+AR Path="/E255400A" Ref=""  Part="1" 
+AR Path="/E255400A" Ref="TP_PB6"  Part="1" 
+F 0 "TP_PB6" V 7300 38200 42  0000 R TNN
+F 1 "TP_SP" H 7100 38100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 7100 38100 50  0001 C CNN
+F 3 "" H 7100 38100 50  0001 C CNN
+	1    7100 38100
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 51513BDE
+P 8200 37900
+AR Path="/51513BDE" Ref=""  Part="1" 
+AR Path="/51513BDE" Ref="TP_PB5"  Part="1" 
+F 0 "TP_PB5" V 8400 38000 42  0000 R TNN
+F 1 "TP_SP" H 8200 37900 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8200 37900 50  0001 C CNN
+F 3 "" H 8200 37900 50  0001 C CNN
+	1    8200 37900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 4FF2E1FA
+P 8200 38200
+AR Path="/4FF2E1FA" Ref=""  Part="1" 
+AR Path="/4FF2E1FA" Ref="TP_PB4"  Part="1" 
+F 0 "TP_PB4" V 8400 38300 42  0000 R TNN
+F 1 "TP_SP" H 8200 38200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8200 38200 50  0001 C CNN
+F 3 "" H 8200 38200 50  0001 C CNN
+	1    8200 38200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 9E96AFAA
+P 8200 40400
+AR Path="/9E96AFAA" Ref=""  Part="1" 
+AR Path="/9E96AFAA" Ref="TP_DTR1"  Part="1" 
+F 0 "TP_DTR1" V 8400 40500 42  0000 R TNN
+F 1 "TP_SP" H 8200 40400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8200 40400 50  0001 C CNN
+F 3 "" H 8200 40400 50  0001 C CNN
+	1    8200 40400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 D9CB7CC8
+P 8300 41000
+AR Path="/D9CB7CC8" Ref=""  Part="1" 
+AR Path="/D9CB7CC8" Ref="TP_TXL1"  Part="1" 
+F 0 "TP_TXL1" V 8500 41100 42  0000 R TNN
+F 1 "TP_SP" H 8300 41000 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8300 41000 50  0001 C CNN
+F 3 "" H 8300 41000 50  0001 C CNN
+	1    8300 41000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 0162407B
+P 8300 41500
+AR Path="/0162407B" Ref=""  Part="1" 
+AR Path="/0162407B" Ref="TP_RXL1"  Part="1" 
+F 0 "TP_RXL1" V 8500 41600 42  0000 R TNN
+F 1 "TP_SP" H 8300 41500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8300 41500 50  0001 C CNN
+F 3 "" H 8300 41500 50  0001 C CNN
+	1    8300 41500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 AC1FC4F1
+P 8400 35200
+AR Path="/AC1FC4F1" Ref=""  Part="1" 
+AR Path="/AC1FC4F1" Ref="TP_LCMD1"  Part="1" 
+F 0 "TP_LCMD1" V 8600 35300 42  0000 R TNN
+F 1 "TP_SP" H 8400 35200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8400 35200 50  0001 C CNN
+F 3 "" H 8400 35200 50  0001 C CNN
+	1    8400 35200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 F0E9F8B9
+P 8400 39900
+AR Path="/F0E9F8B9" Ref=""  Part="1" 
+AR Path="/F0E9F8B9" Ref="TP_XT1"  Part="1" 
+F 0 "TP_XT1" V 8600 40000 42  0000 R TNN
+F 1 "TP_SP" H 8400 39900 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8400 39900 50  0001 C CNN
+F 3 "" H 8400 39900 50  0001 C CNN
+	1    8400 39900
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 6456ED16
+P 8700 35900
+AR Path="/6456ED16" Ref=""  Part="1" 
+AR Path="/6456ED16" Ref="TP_LL1"  Part="1" 
+F 0 "TP_LL1" V 8900 36000 42  0000 R TNN
+F 1 "TP_SP" H 8700 35900 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8700 35900 50  0001 C CNN
+F 3 "" H 8700 35900 50  0001 C CNN
+	1    8700 35900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 E75E9F54
+P 8700 36600
+AR Path="/E75E9F54" Ref=""  Part="1" 
+AR Path="/E75E9F54" Ref="TP_3V3"  Part="1" 
+F 0 "TP_3V3" V 8900 36700 42  0000 R TNN
+F 1 "TP_SP" H 8700 36600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8700 36600 50  0001 C CNN
+F 3 "" H 8700 36600 50  0001 C CNN
+	1    8700 36600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 DB980AF2
+P 8800 39500
+AR Path="/DB980AF2" Ref=""  Part="1" 
+AR Path="/DB980AF2" Ref="TP_XT2"  Part="1" 
+F 0 "TP_XT2" V 9000 39600 42  0000 R TNN
+F 1 "TP_SP" H 8800 39500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 8800 39500 50  0001 C CNN
+F 3 "" H 8800 39500 50  0001 C CNN
+	1    8800 39500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 4E8C7D36
+P 9200 37100
+AR Path="/4E8C7D36" Ref=""  Part="1" 
+AR Path="/4E8C7D36" Ref="TP_RESET1"  Part="1" 
+F 0 "TP_RESET1" V 9400 37200 42  0000 R TNN
+F 1 "TP_SP" H 9200 37100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 9200 37100 50  0001 C CNN
+F 3 "" H 9200 37100 50  0001 C CNN
+	1    9200 37100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 C14E0A29
+P 9400 42200
+AR Path="/C14E0A29" Ref=""  Part="1" 
+AR Path="/C14E0A29" Ref="TP_RX1"  Part="1" 
+F 0 "TP_RX1" V 9600 42300 42  0000 R TNN
+F 1 "TP_SP" H 9400 42200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 9400 42200 50  0001 C CNN
+F 3 "" H 9400 42200 50  0001 C CNN
+	1    9400 42200
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 499BCBD8
+P 9700 42200
+AR Path="/499BCBD8" Ref=""  Part="1" 
+AR Path="/499BCBD8" Ref="TP_TX1"  Part="1" 
+F 0 "TP_TX1" V 9900 42300 42  0000 R TNN
+F 1 "TP_SP" H 9700 42200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 9700 42200 50  0001 C CNN
+F 3 "" H 9700 42200 50  0001 C CNN
+	1    9700 42200
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 07EDE085
+P 10200 35300
+AR Path="/07EDE085" Ref=""  Part="1" 
+AR Path="/07EDE085" Ref="TP_PWRIN1"  Part="1" 
+F 0 "TP_PWRIN1" V 10400 35400 42  0000 R TNN
+F 1 "TP_SP" H 10200 35300 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 10200 35300 50  0001 C CNN
+F 3 "" H 10200 35300 50  0001 C CNN
+	1    10200 35300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 2A62DB7C
+P 10700 35300
+AR Path="/2A62DB7C" Ref=""  Part="1" 
+AR Path="/2A62DB7C" Ref="TP_VIN1"  Part="1" 
+F 0 "TP_VIN1" V 10900 35400 42  0000 R TNN
+F 1 "TP_SP" H 10700 35300 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 10700 35300 50  0001 C CNN
+F 3 "" H 10700 35300 50  0001 C CNN
+	1    10700 35300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 2BDA480C
+P 12200 37400
+AR Path="/2BDA480C" Ref=""  Part="1" 
+AR Path="/2BDA480C" Ref="TP_ONL1"  Part="1" 
+F 0 "TP_ONL1" V 12400 37500 42  0000 R TNN
+F 1 "TP_SP" H 12200 37400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 12200 37400 50  0001 C CNN
+F 3 "" H 12200 37400 50  0001 C CNN
+	1    12200 37400
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 DB324947
+P 12800 35600
+AR Path="/DB324947" Ref=""  Part="1" 
+AR Path="/DB324947" Ref="TP_5V2"  Part="1" 
+F 0 "TP_5V2" V 13000 35700 42  0000 R TNN
+F 1 "TP_SP" H 12800 35600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 12800 35600 50  0001 C CNN
+F 3 "" H 12800 35600 50  0001 C CNN
+	1    12800 35600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 86712F37
+P 13000 35600
+AR Path="/86712F37" Ref=""  Part="1" 
+AR Path="/86712F37" Ref="TP_5V1"  Part="1" 
+F 0 "TP_5V1" V 13200 35700 42  0000 R TNN
+F 1 "TP_SP" H 13000 35600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13000 35600 50  0001 C CNN
+F 3 "" H 13000 35600 50  0001 C CNN
+	1    13000 35600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 1F035914
+P 13500 38800
+AR Path="/1F035914" Ref=""  Part="1" 
+AR Path="/1F035914" Ref="TP_SDA1"  Part="1" 
+F 0 "TP_SDA1" V 13700 38900 42  0000 R TNN
+F 1 "TP_SP" H 13500 38800 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 38800 50  0001 C CNN
+F 3 "" H 13500 38800 50  0001 C CNN
+	1    13500 38800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 19EC5AB3
+P 13500 39200
+AR Path="/19EC5AB3" Ref=""  Part="1" 
+AR Path="/19EC5AB3" Ref="TP_12"  Part="1" 
+F 0 "TP_12" V 13700 39300 42  0000 R TNN
+F 1 "TP_SP" H 13500 39200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 39200 50  0001 C CNN
+F 3 "" H 13500 39200 50  0001 C CNN
+	1    13500 39200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 851C5346
+P 13500 39400
+AR Path="/851C5346" Ref=""  Part="1" 
+AR Path="/851C5346" Ref="TP_10"  Part="1" 
+F 0 "TP_10" V 13700 39500 42  0000 R TNN
+F 1 "TP_SP" H 13500 39400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 39400 50  0001 C CNN
+F 3 "" H 13500 39400 50  0001 C CNN
+	1    13500 39400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 210C8769
+P 13500 39600
+AR Path="/210C8769" Ref=""  Part="1" 
+AR Path="/210C8769" Ref="TP_8"  Part="1" 
+F 0 "TP_8" V 13700 39700 42  0000 R TNN
+F 1 "TP_SP" H 13500 39600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 39600 50  0001 C CNN
+F 3 "" H 13500 39600 50  0001 C CNN
+	1    13500 39600
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 96859244
+P 13500 40100
+AR Path="/96859244" Ref=""  Part="1" 
+AR Path="/96859244" Ref="TP_A4"  Part="1" 
+F 0 "TP_A4" V 13700 40200 42  0000 R TNN
+F 1 "TP_SP" H 13500 40100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 40100 50  0001 C CNN
+F 3 "" H 13500 40100 50  0001 C CNN
+	1    13500 40100
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 FCFCF1E8
+P 13500 40300
+AR Path="/FCFCF1E8" Ref=""  Part="1" 
+AR Path="/FCFCF1E8" Ref="TP_A2"  Part="1" 
+F 0 "TP_A2" V 13700 40400 42  0000 R TNN
+F 1 "TP_SP" H 13500 40300 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 40300 50  0001 C CNN
+F 3 "" H 13500 40300 50  0001 C CNN
+	1    13500 40300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 89625E2B
+P 13500 40500
+AR Path="/89625E2B" Ref=""  Part="1" 
+AR Path="/89625E2B" Ref="TP_A0"  Part="1" 
+F 0 "TP_A0" V 13700 40600 42  0000 R TNN
+F 1 "TP_SP" H 13500 40500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 40500 50  0001 C CNN
+F 3 "" H 13500 40500 50  0001 C CNN
+	1    13500 40500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 47D33DE5
+P 13500 41000
+AR Path="/47D33DE5" Ref=""  Part="1" 
+AR Path="/47D33DE5" Ref="TP_6"  Part="1" 
+F 0 "TP_6" V 13700 41100 42  0000 R TNN
+F 1 "TP_SP" H 13500 41000 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 41000 50  0001 C CNN
+F 3 "" H 13500 41000 50  0001 C CNN
+	1    13500 41000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 68EB6C40
+P 13500 41200
+AR Path="/68EB6C40" Ref=""  Part="1" 
+AR Path="/68EB6C40" Ref="TP_4"  Part="1" 
+F 0 "TP_4" V 13700 41300 42  0000 R TNN
+F 1 "TP_SP" H 13500 41200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 41200 50  0001 C CNN
+F 3 "" H 13500 41200 50  0001 C CNN
+	1    13500 41200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 4FA9A01A
+P 13500 41400
+AR Path="/4FA9A01A" Ref=""  Part="1" 
+AR Path="/4FA9A01A" Ref="TP_2"  Part="1" 
+F 0 "TP_2" V 13700 41500 42  0000 R TNN
+F 1 "TP_SP" H 13500 41400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 41400 50  0001 C CNN
+F 3 "" H 13500 41400 50  0001 C CNN
+	1    13500 41400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 FA55079E
+P 13500 41600
+AR Path="/FA55079E" Ref=""  Part="1" 
+AR Path="/FA55079E" Ref="TP_0"  Part="1" 
+F 0 "TP_0" V 13700 41700 42  0000 R TNN
+F 1 "TP_SP" H 13500 41600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13500 41600 50  0001 C CNN
+F 3 "" H 13500 41600 50  0001 C CNN
+	1    13500 41600
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 E56E5203
+P 13800 38700
+AR Path="/E56E5203" Ref=""  Part="1" 
+AR Path="/E56E5203" Ref="TP_SCL1"  Part="1" 
+F 0 "TP_SCL1" V 14000 38800 42  0000 R TNN
+F 1 "TP_SP" H 13800 38700 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 38700 50  0001 C CNN
+F 3 "" H 13800 38700 50  0001 C CNN
+	1    13800 38700
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 669CD377
+P 13800 39100
+AR Path="/669CD377" Ref=""  Part="1" 
+AR Path="/669CD377" Ref="TP_13"  Part="1" 
+F 0 "TP_13" V 14000 39200 42  0000 R TNN
+F 1 "TP_SP" H 13800 39100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 39100 50  0001 C CNN
+F 3 "" H 13800 39100 50  0001 C CNN
+	1    13800 39100
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 31612CD1
+P 13800 39300
+AR Path="/31612CD1" Ref=""  Part="1" 
+AR Path="/31612CD1" Ref="TP_11"  Part="1" 
+F 0 "TP_11" V 14000 39400 42  0000 R TNN
+F 1 "TP_SP" H 13800 39300 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 39300 50  0001 C CNN
+F 3 "" H 13800 39300 50  0001 C CNN
+	1    13800 39300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 C7C3ABC1
+P 13800 39500
+AR Path="/C7C3ABC1" Ref=""  Part="1" 
+AR Path="/C7C3ABC1" Ref="TP_9"  Part="1" 
+F 0 "TP_9" V 14000 39600 42  0000 R TNN
+F 1 "TP_SP" H 13800 39500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 39500 50  0001 C CNN
+F 3 "" H 13800 39500 50  0001 C CNN
+	1    13800 39500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 822AB459
+P 13800 40000
+AR Path="/822AB459" Ref=""  Part="1" 
+AR Path="/822AB459" Ref="TP_A5"  Part="1" 
+F 0 "TP_A5" V 14000 40100 42  0000 R TNN
+F 1 "TP_SP" H 13800 40000 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 40000 50  0001 C CNN
+F 3 "" H 13800 40000 50  0001 C CNN
+	1    13800 40000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 2EC32538
+P 13800 40200
+AR Path="/2EC32538" Ref=""  Part="1" 
+AR Path="/2EC32538" Ref="TP_A3"  Part="1" 
+F 0 "TP_A3" V 14000 40300 42  0000 R TNN
+F 1 "TP_SP" H 13800 40200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 40200 50  0001 C CNN
+F 3 "" H 13800 40200 50  0001 C CNN
+	1    13800 40200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 DAF972CB
+P 13800 40400
+AR Path="/DAF972CB" Ref=""  Part="1" 
+AR Path="/DAF972CB" Ref="TP_A1"  Part="1" 
+F 0 "TP_A1" V 14000 40500 42  0000 R TNN
+F 1 "TP_SP" H 13800 40400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 40400 50  0001 C CNN
+F 3 "" H 13800 40400 50  0001 C CNN
+	1    13800 40400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 BE77FEC0
+P 13800 40900
+AR Path="/BE77FEC0" Ref=""  Part="1" 
+AR Path="/BE77FEC0" Ref="TP_7"  Part="1" 
+F 0 "TP_7" V 14000 41000 42  0000 R TNN
+F 1 "TP_SP" H 13800 40900 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 40900 50  0001 C CNN
+F 3 "" H 13800 40900 50  0001 C CNN
+	1    13800 40900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 BB189BF7
+P 13800 41100
+AR Path="/BB189BF7" Ref=""  Part="1" 
+AR Path="/BB189BF7" Ref="TP_5"  Part="1" 
+F 0 "TP_5" V 14000 41200 42  0000 R TNN
+F 1 "TP_SP" H 13800 41100 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 41100 50  0001 C CNN
+F 3 "" H 13800 41100 50  0001 C CNN
+	1    13800 41100
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 AE365FFA
+P 13800 41300
+AR Path="/AE365FFA" Ref=""  Part="1" 
+AR Path="/AE365FFA" Ref="TP_3"  Part="1" 
+F 0 "TP_3" V 14000 41400 42  0000 R TNN
+F 1 "TP_SP" H 13800 41300 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 41300 50  0001 C CNN
+F 3 "" H 13800 41300 50  0001 C CNN
+	1    13800 41300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 ED5A7A47
+P 13800 41500
+AR Path="/ED5A7A47" Ref=""  Part="1" 
+AR Path="/ED5A7A47" Ref="TP_1"  Part="1" 
+F 0 "TP_1" V 14000 41600 42  0000 R TNN
+F 1 "TP_SP" H 13800 41500 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 13800 41500 50  0001 C CNN
+F 3 "" H 13800 41500 50  0001 C CNN
+	1    13800 41500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TP_SP-UNO-TH_Rev3e-eagle-import 
+U 1 1 F22A891A
+P 14000 38900
+AR Path="/F22A891A" Ref=""  Part="1" 
+AR Path="/F22A891A" Ref="TP_AREF1"  Part="1" 
+F 0 "TP_AREF1" V 14200 39000 42  0000 R TNN
+F 1 "TP_SP" H 14000 38900 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:TP-SP" H 14000 38900 50  0001 C CNN
+F 3 "" H 14000 38900 50  0001 C CNN
+	1    14000 38900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+09
+U 1 1 64F67BBE
+P 3400 35000
+F 0 "#P+09" H 3400 35000 50  0001 C CNN
+F 1 "+5V" V 3475 35100 59  0000 R TNN
+F 2 "" H 3400 35000 50  0001 C CNN
+F 3 "" H 3400 35000 50  0001 C CNN
+	1    3400 35000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+011
+U 1 1 A8409400
+P 4000 37900
+F 0 "#P+011" H 4000 37900 50  0001 C CNN
+F 1 "+5V" V 4075 38000 59  0000 R TNN
+F 2 "" H 4000 37900 50  0001 C CNN
+F 3 "" H 4000 37900 50  0001 C CNN
+	1    4000 37900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+06
+U 1 1 D9C048EF
+P 4400 40100
+F 0 "#P+06" H 4400 40100 50  0001 C CNN
+F 1 "+5V" V 4475 40200 59  0000 R TNN
+F 2 "" H 4400 40100 50  0001 C CNN
+F 3 "" H 4400 40100 50  0001 C CNN
+	1    4400 40100
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+010
+U 1 1 BD3EA0B3
+P 6400 36500
+F 0 "#P+010" H 6400 36500 50  0001 C CNN
+F 1 "+5V" V 6475 36600 59  0000 R TNN
+F 2 "" H 6400 36500 50  0001 C CNN
+F 3 "" H 6400 36500 50  0001 C CNN
+	1    6400 36500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+03
+U 1 1 4993E59C
+P 8600 40150
+F 0 "#P+03" H 8600 40150 50  0001 C CNN
+F 1 "+5V" V 8675 40250 59  0000 R TNN
+F 2 "" H 8600 40150 50  0001 C CNN
+F 3 "" H 8600 40150 50  0001 C CNN
+	1    8600 40150
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+07
+U 1 1 35DF1C55
+P 9000 40900
+F 0 "#P+07" H 9000 40900 50  0001 C CNN
+F 1 "+5V" V 9050 40925 59  0000 R TNN
+F 2 "" H 9000 40900 50  0001 C CNN
+F 3 "" H 9000 40900 50  0001 C CNN
+	1    9000 40900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+02
+U 1 1 C80214A1
+P 9100 38800
+F 0 "#P+02" H 9100 38800 50  0001 C CNN
+F 1 "+5V" V 9175 38900 59  0000 R TNN
+F 2 "" H 9100 38800 50  0001 C CNN
+F 3 "" H 9100 38800 50  0001 C CNN
+	1    9100 38800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+012
+U 1 1 C459B1AB
+P 9300 40300
+F 0 "#P+012" H 9300 40300 50  0001 C CNN
+F 1 "+5V" V 9450 40125 59  0000 L BNN
+F 2 "" H 9300 40300 50  0001 C CNN
+F 3 "" H 9300 40300 50  0001 C CNN
+	1    9300 40300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+04
+U 1 1 493EF39D
+P 9500 36900
+F 0 "#P+04" H 9500 36900 50  0001 C CNN
+F 1 "+5V" V 9575 37000 59  0000 R TNN
+F 2 "" H 9500 36900 50  0001 C CNN
+F 3 "" H 9500 36900 50  0001 C CNN
+	1    9500 36900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+01
+U 1 1 28E552F4
+P 11400 38300
+F 0 "#P+01" H 11400 38300 50  0001 C CNN
+F 1 "+5V" V 11475 38400 59  0000 R TNN
+F 2 "" H 11400 38300 50  0001 C CNN
+F 3 "" H 11400 38300 50  0001 C CNN
+	1    11400 38300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+05
+U 1 1 0C756300
+P 11800 36700
+F 0 "#P+05" H 11800 36700 50  0001 C CNN
+F 1 "+5V" V 11875 36800 59  0000 R TNN
+F 2 "" H 11800 36700 50  0001 C CNN
+F 3 "" H 11800 36700 50  0001 C CNN
+	1    11800 36700
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:+5V-UNO-TH_Rev3e-eagle-import #P+08
+U 1 1 81B85DCC
+P 12500 35400
+F 0 "#P+08" H 12500 35400 50  0001 C CNN
+F 1 "+5V" V 12575 35500 59  0000 R TNN
+F 2 "" H 12500 35400 50  0001 C CNN
+F 3 "" H 12500 35400 50  0001 C CNN
+	1    12500 35400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND016
+U 1 1 BF2C1D70
+P 3000 41400
+F 0 "#GND016" H 3000 41400 50  0001 C CNN
+F 1 "GND" H 2900 41300 59  0000 L BNN
+F 2 "" H 3000 41400 50  0001 C CNN
+F 3 "" H 3000 41400 50  0001 C CNN
+	1    3000 41400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND018
+U 1 1 22A0A6C9
+P 3400 36000
+F 0 "#GND018" H 3400 36000 50  0001 C CNN
+F 1 "GND" H 3300 35900 59  0000 L BNN
+F 2 "" H 3400 36000 50  0001 C CNN
+F 3 "" H 3400 36000 50  0001 C CNN
+	1    3400 36000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND08
+U 1 1 1D2F8185
+P 3700 39600
+F 0 "#GND08" H 3700 39600 50  0001 C CNN
+F 1 "GND" H 3600 39500 59  0000 L BNN
+F 2 "" H 3700 39600 50  0001 C CNN
+F 3 "" H 3700 39600 50  0001 C CNN
+	1    3700 39600
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND022
+U 1 1 9030B27B
+P 4000 38800
+F 0 "#GND022" H 4000 38800 50  0001 C CNN
+F 1 "GND" H 3900 38700 59  0000 L BNN
+F 2 "" H 4000 38800 50  0001 C CNN
+F 3 "" H 4000 38800 50  0001 C CNN
+	1    4000 38800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND020
+U 1 1 0FEB7D31
+P 4600 36000
+F 0 "#GND020" H 4600 36000 50  0001 C CNN
+F 1 "GND" H 4500 35900 59  0000 L BNN
+F 2 "" H 4600 36000 50  0001 C CNN
+F 3 "" H 4600 36000 50  0001 C CNN
+	1    4600 36000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND023
+U 1 1 0AC9E417
+P 4600 41500
+F 0 "#GND023" H 4600 41500 50  0001 C CNN
+F 1 "GND" H 4500 41400 59  0000 L BNN
+F 2 "" H 4600 41500 50  0001 C CNN
+F 3 "" H 4600 41500 50  0001 C CNN
+	1    4600 41500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND06
+U 1 1 53F79456
+P 4900 42400
+F 0 "#GND06" H 4900 42400 50  0001 C CNN
+F 1 "GND" H 4800 42300 59  0000 L BNN
+F 2 "" H 4900 42400 50  0001 C CNN
+F 3 "" H 4900 42400 50  0001 C CNN
+	1    4900 42400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND04
+U 1 1 812A97BA
+P 7000 37300
+F 0 "#GND04" H 7000 37300 50  0001 C CNN
+F 1 "GND" H 6900 37200 59  0000 L BNN
+F 2 "" H 7000 37300 50  0001 C CNN
+F 3 "" H 7000 37300 50  0001 C CNN
+	1    7000 37300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND015
+U 1 1 C52E18F3
+P 7800 40500
+F 0 "#GND015" H 7800 40500 50  0001 C CNN
+F 1 "GND" H 7700 40400 59  0000 L BNN
+F 2 "" H 7800 40500 50  0001 C CNN
+F 3 "" H 7800 40500 50  0001 C CNN
+	1    7800 40500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND03
+U 1 1 2B62811B
+P 8300 39600
+F 0 "#GND03" H 8300 39600 50  0001 C CNN
+F 1 "GND" H 8200 39500 59  0000 L BNN
+F 2 "" H 8300 39600 50  0001 C CNN
+F 3 "" H 8300 39600 50  0001 C CNN
+	1    8300 39600
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND017
+U 1 1 60FF6CBA
+P 8400 36500
+F 0 "#GND017" H 8400 36500 50  0001 C CNN
+F 1 "GND" H 8300 36400 59  0000 L BNN
+F 2 "" H 8400 36500 50  0001 C CNN
+F 3 "" H 8400 36500 50  0001 C CNN
+	1    8400 36500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND021
+U 1 1 42FCACF8
+P 8700 37300
+F 0 "#GND021" H 8700 37300 50  0001 C CNN
+F 1 "GND" H 8600 37200 59  0000 L BNN
+F 2 "" H 8700 37300 50  0001 C CNN
+F 3 "" H 8700 37300 50  0001 C CNN
+	1    8700 37300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND019
+U 1 1 EF4FBBB1
+P 9100 36400
+F 0 "#GND019" H 9100 36400 50  0001 C CNN
+F 1 "GND" H 9000 36300 59  0000 L BNN
+F 2 "" H 9100 36400 50  0001 C CNN
+F 3 "" H 9100 36400 50  0001 C CNN
+	1    9100 36400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND05
+U 1 1 8A31D18F
+P 9600 37800
+F 0 "#GND05" H 9600 37800 50  0001 C CNN
+F 1 "GND" H 9500 37700 59  0000 L BNN
+F 2 "" H 9600 37800 50  0001 C CNN
+F 3 "" H 9600 37800 50  0001 C CNN
+	1    9600 37800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND02
+U 1 1 2822B6F7
+P 9600 41000
+F 0 "#GND02" H 9600 41000 50  0001 C CNN
+F 1 "GND" H 9500 40900 59  0000 L BNN
+F 2 "" H 9600 41000 50  0001 C CNN
+F 3 "" H 9600 41000 50  0001 C CNN
+	1    9600 41000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND012
+U 1 1 38A10D72
+P 10500 38200
+F 0 "#GND012" H 10500 38200 50  0001 C CNN
+F 1 "GND" H 10400 38100 59  0000 L BNN
+F 2 "" H 10500 38200 50  0001 C CNN
+F 3 "" H 10500 38200 50  0001 C CNN
+	1    10500 38200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND09
+U 1 1 C0CC0B74
+P 10700 36300
+F 0 "#GND09" H 10700 36300 50  0001 C CNN
+F 1 "GND" H 10600 36200 59  0000 L BNN
+F 2 "" H 10700 36300 50  0001 C CNN
+F 3 "" H 10700 36300 50  0001 C CNN
+	1    10700 36300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND01
+U 1 1 C94580D2
+P 11300 38800
+F 0 "#GND01" H 11300 38800 50  0001 C CNN
+F 1 "GND" H 11200 38700 59  0000 L BNN
+F 2 "" H 11300 38800 50  0001 C CNN
+F 3 "" H 11300 38800 50  0001 C CNN
+	1    11300 38800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND011
+U 1 1 A65E83B7
+P 11400 36300
+F 0 "#GND011" H 11400 36300 50  0001 C CNN
+F 1 "GND" H 11300 36200 59  0000 L BNN
+F 2 "" H 11400 36300 50  0001 C CNN
+F 3 "" H 11400 36300 50  0001 C CNN
+	1    11400 36300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND013
+U 1 1 CA372111
+P 11900 38100
+F 0 "#GND013" H 11900 38100 50  0001 C CNN
+F 1 "GND" H 11800 38000 59  0000 L BNN
+F 2 "" H 11900 38100 50  0001 C CNN
+F 3 "" H 11900 38100 50  0001 C CNN
+	1    11900 38100
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND010
+U 1 1 127D26B5
+P 12200 36300
+F 0 "#GND010" H 12200 36300 50  0001 C CNN
+F 1 "GND" H 12100 36200 59  0000 L BNN
+F 2 "" H 12200 36300 50  0001 C CNN
+F 3 "" H 12200 36300 50  0001 C CNN
+	1    12200 36300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND07
+U 1 1 749ABC63
+P 12800 36300
+F 0 "#GND07" H 12800 36300 50  0001 C CNN
+F 1 "GND" H 12700 36200 59  0000 L BNN
+F 2 "" H 12800 36300 50  0001 C CNN
+F 3 "" H 12800 36300 50  0001 C CNN
+	1    12800 36300
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:GND-UNO-TH_Rev3e-eagle-import #GND014
+U 1 1 F26D28F6
+P 12800 37000
+F 0 "#GND014" H 12800 37000 50  0001 C CNN
+F 1 "GND" H 12700 36900 59  0000 L BNN
+F 2 "" H 12800 37000 50  0001 C CNN
+F 3 "" H 12800 37000 50  0001 C CNN
+	1    12800 37000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:DIODE-MINIMELF-UNO-TH_Rev3e-eagle-import D3
+U 1 1 6BDFF4E8
+P 4600 38700
+AR Path="/6BDFF4E8" Ref="D3"  Part="1" 
+AR Path="/6BDFF4E8" Ref="D3"  Part="1" 
+F 0 "D3" H 4600 38819 59  0000 L BNN
+F 1 "CD1206-S01575" H 4200 38509 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:MINIMELF" H 4600 38700 50  0001 C CNN
+F 3 "" H 4600 38700 50  0001 C CNN
+	1    4600 38700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:DIODE-MINIMELF-UNO-TH_Rev3e-eagle-import D2
+U 1 1 8119C223
+P 9400 39100
+AR Path="/8119C223" Ref="D2"  Part="1" 
+AR Path="/8119C223" Ref="D2"  Part="1" 
+F 0 "D2" H 9500 39281 59  0000 R TNN
+F 1 "CD1206-S01575" H 9000 38909 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:MINIMELF" H 9400 39100 50  0001 C CNN
+F 3 "" H 9400 39100 50  0001 C CNN
+	1    9400 39100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:DIODE-SMB-UNO-TH_Rev3e-eagle-import D1
+U 1 1 7DCAD14B
+P 10300 35700
+AR Path="/7DCAD14B" Ref="D1"  Part="1" 
+AR Path="/7DCAD14B" Ref="D1"  Part="1" 
+F 0 "D1" H 10400 35719 59  0000 L BNN
+F 1 "M7" H 10400 35609 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:SMB" H 10300 35700 50  0001 C CNN
+F 3 "" H 10300 35700 50  0001 C CNN
+	1    10300 35700
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN3
+U 1 1 461B2D7A
+P 3100 39600
+AR Path="/461B2D7A" Ref="RN3"  Part="1" 
+AR Path="/461B2D7A" Ref="RN3"  Part="1" 
+F 0 "RN3" H 2900 39480 59  0000 L BNN
+F 1 "22R" H 3200 39480 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 3100 39600 50  0001 C CNN
+F 3 "" H 3100 39600 50  0001 C CNN
+	1    3100 39600
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN3
+U 4 1 461B2D6E
+P 3100 39900
+AR Path="/461B2D6E" Ref="RN3"  Part="4" 
+AR Path="/461B2D6E" Ref="RN3"  Part="4" 
+F 0 "RN3" H 2900 39780 59  0000 L BNN
+F 1 "22R" H 3200 39780 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 3100 39900 50  0001 C CNN
+F 3 "" H 3100 39900 50  0001 C CNN
+	4    3100 39900
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN1
+U 3 1 81B71D96
+P 4300 38700
+AR Path="/81B71D96" Ref="RN1"  Part="3" 
+AR Path="/81B71D96" Ref="RN1"  Part="3" 
+F 0 "RN1" H 4100 38580 59  0000 L BNN
+F 1 "10K" H 4400 38580 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 4300 38700 50  0001 C CNN
+F 3 "" H 4300 38700 50  0001 C CNN
+	3    4300 38700
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN1
+U 1 1 81B71D9E
+P 4600 35000
+AR Path="/81B71D9E" Ref="RN1"  Part="1" 
+AR Path="/81B71D9E" Ref="RN1"  Part="1" 
+F 0 "RN1" H 4400 34880 59  0000 L BNN
+F 1 "10K" H 4700 34880 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 4600 35000 50  0001 C CNN
+F 3 "" H 4600 35000 50  0001 C CNN
+	1    4600 35000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN1
+U 2 1 81B71D92
+P 4600 35600
+AR Path="/81B71D92" Ref="RN1"  Part="2" 
+AR Path="/81B71D92" Ref="RN1"  Part="2" 
+F 0 "RN1" H 4400 35480 59  0000 L BNN
+F 1 "10K" H 4700 35480 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 4600 35600 50  0001 C CNN
+F 3 "" H 4600 35600 50  0001 C CNN
+	2    4600 35600
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN2
+U 4 1 5C3C8ACE
+P 7800 40200
+AR Path="/5C3C8ACE" Ref="RN2"  Part="4" 
+AR Path="/5C3C8ACE" Ref="RN2"  Part="4" 
+F 0 "RN2" H 7600 40080 59  0000 L BNN
+F 1 "1K" H 7900 40080 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 7800 40200 50  0001 C CNN
+F 3 "" H 7800 40200 50  0001 C CNN
+	4    7800 40200
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN2
+U 1 1 5C3C8ADA
+P 8400 35700
+AR Path="/5C3C8ADA" Ref="RN2"  Part="1" 
+AR Path="/5C3C8ADA" Ref="RN2"  Part="1" 
+F 0 "RN2" H 8500 35600 59  0000 R TNN
+F 1 "1K" H 8400 35800 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 8400 35700 50  0001 C CNN
+F 3 "" H 8400 35700 50  0001 C CNN
+	1    8400 35700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN2
+U 3 1 5C3C8AD2
+P 8600 41100
+AR Path="/5C3C8AD2" Ref="RN2"  Part="3" 
+AR Path="/5C3C8AD2" Ref="RN2"  Part="3" 
+F 0 "RN2" H 8400 40980 59  0000 L BNN
+F 1 "1K" H 8700 40980 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 8600 41100 50  0001 C CNN
+F 3 "" H 8600 41100 50  0001 C CNN
+	3    8600 41100
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN2
+U 2 1 5C3C8AD6
+P 8600 41600
+AR Path="/5C3C8AD6" Ref="RN2"  Part="2" 
+AR Path="/5C3C8AD6" Ref="RN2"  Part="2" 
+F 0 "RN2" H 8700 41520 59  0000 R TNN
+F 1 "1K" H 8600 41700 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 8600 41600 50  0001 C CNN
+F 3 "" H 8600 41600 50  0001 C CNN
+	2    8600 41600
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN1
+U 4 1 81B71D8A
+P 9100 39100
+AR Path="/81B71D8A" Ref="RN1"  Part="4" 
+AR Path="/81B71D8A" Ref="RN1"  Part="4" 
+F 0 "RN1" H 8900 38980 59  0000 L BNN
+F 1 "10K" H 9200 38980 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 9100 39100 50  0001 C CNN
+F 3 "" H 9100 39100 50  0001 C CNN
+	4    9100 39100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN4
+U 2 1 5C8FA3F7
+P 10600 41900
+AR Path="/5C8FA3F7" Ref="RN4"  Part="2" 
+AR Path="/5C8FA3F7" Ref="RN4"  Part="2" 
+F 0 "RN4" H 10400 41780 59  0000 L BNN
+F 1 "1K" H 10700 41780 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 10600 41900 50  0001 C CNN
+F 3 "" H 10600 41900 50  0001 C CNN
+	2    10600 41900
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN4
+U 1 1 5C8FA3FB
+P 10600 42100
+AR Path="/5C8FA3FB" Ref="RN4"  Part="1" 
+AR Path="/5C8FA3FB" Ref="RN4"  Part="1" 
+F 0 "RN4" H 10400 41980 59  0000 L BNN
+F 1 "1K" H 10700 41980 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 10600 42100 50  0001 C CNN
+F 3 "" H 10600 42100 50  0001 C CNN
+	1    10600 42100
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN4
+U 4 1 5C8FA3EF
+P 12000 37000
+AR Path="/5C8FA3EF" Ref="RN4"  Part="4" 
+AR Path="/5C8FA3EF" Ref="RN4"  Part="4" 
+F 0 "RN4" H 11800 36880 59  0000 L BNN
+F 1 "1K" H 12100 36880 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 12000 37000 50  0001 C CNN
+F 3 "" H 12000 37000 50  0001 C CNN
+	4    12000 37000
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN4
+U 3 1 5C8FA3F3
+P 12000 37200
+AR Path="/5C8FA3F3" Ref="RN4"  Part="3" 
+AR Path="/5C8FA3F3" Ref="RN4"  Part="3" 
+F 0 "RN4" H 11800 37080 59  0000 L BNN
+F 1 "1K" H 12100 37080 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 12000 37200 50  0001 C CNN
+F 3 "" H 12000 37200 50  0001 C CNN
+	3    12000 37200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN3
+U 2 1 461B2D76
+P 14400 40100
+AR Path="/461B2D76" Ref="RN3"  Part="2" 
+AR Path="/461B2D76" Ref="RN3"  Part="2" 
+F 0 "RN3" H 14200 39980 59  0000 L BNN
+F 1 "22R" H 14500 39980 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 14400 40100 50  0001 C CNN
+F 3 "" H 14400 40100 50  0001 C CNN
+	2    14400 40100
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:4R-NCAY16-UNO-TH_Rev3e-eagle-import RN3
+U 3 1 461B2D72
+P 14400 40400
+AR Path="/461B2D72" Ref="RN3"  Part="3" 
+AR Path="/461B2D72" Ref="RN3"  Part="3" 
+F 0 "RN3" H 14200 40280 59  0000 L BNN
+F 1 "22R" H 14500 40280 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CAY16" H 14400 40400 50  0001 C CNN
+F 3 "" H 14400 40400 50  0001 C CNN
+	3    14400 40400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:R-EU_R0603-UNO-TH_Rev3e-eagle-import R1
+U 1 1 5B9D458A
+P 4700 39600
+AR Path="/5B9D458A" Ref="R1"  Part="1" 
+AR Path="/5B9D458A" Ref="R1"  Part="1" 
+F 0 "R1" V 4766 39700 59  0000 L BNN
+F 1 "1M" V 4680 39675 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:R0603-ROUND" H 4700 39600 50  0001 C CNN
+F 3 "" H 4700 39600 50  0001 C CNN
+	1    4700 39600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:R-EU_R0603-UNO-TH_Rev3e-eagle-import R2
+U 1 1 0268D748
+P 9200 39700
+AR Path="/0268D748" Ref="R2"  Part="1" 
+AR Path="/0268D748" Ref="R2"  Part="1" 
+F 0 "R2" V 9266 39800 59  0000 L BNN
+F 1 "1M" V 9180 39775 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:R0603-ROUND" H 9200 39700 50  0001 C CNN
+F 3 "" H 9200 39700 50  0001 C CNN
+	1    9200 39700
+	0    1    -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:L-EUL1812-UNO-TH_Rev3e-eagle-import F1
+U 1 1 8E3B6C8E
+P 2600 39300
+AR Path="/8E3B6C8E" Ref="F1"  Part="1" 
+AR Path="/8E3B6C8E" Ref="F1"  Part="1" 
+F 0 "F1" V 2541 39150 59  0000 L BNN
+F 1 "MF-MSMF050-2 500mA" V 2730 39150 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:L1812" H 2600 39300 50  0001 C CNN
+F 3 "" H 2600 39300 50  0001 C CNN
+	1    2600 39300
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:SJ-UNO-TH_Rev3e-eagle-import 
+U 1 1 B00F4B4E
+P 4300 41300
+AR Path="/B00F4B4E" Ref=""  Part="1" 
+AR Path="/B00F4B4E" Ref="GROUND1"  Part="1" 
+F 0 "GROUND1" H 4200 41400 59  0000 L BNN
+F 1 "SJ" H 4200 41150 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:SJ" H 4300 41300 50  0001 C CNN
+F 3 "" H 4300 41300 50  0001 C CNN
+	1    4300 41300
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:SJ-UNO-TH_Rev3e-eagle-import 
+U 1 1 DE0552DE
+P 8700 38800
+AR Path="/DE0552DE" Ref=""  Part="1" 
+AR Path="/DE0552DE" Ref="RESET-EN1"  Part="1" 
+F 0 "RESET-EN1" H 8600 38900 59  0000 L BNN
+F 1 "SJ" H 8600 38650 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:SJ" H 8700 38800 50  0001 C CNN
+F 3 "" H 8700 38800 50  0001 C CNN
+	1    8700 38800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:WE-CBF_0805-UNO-TH_Rev3e-eagle-import L1
+U 1 1 F1FC09DC
+P 2400 41200
+AR Path="/F1FC09DC" Ref="L1"  Part="1" 
+AR Path="/F1FC09DC" Ref="L1"  Part="1" 
+F 0 "L1" H 2250 41400 59  0000 L BNN
+F 1 "BLM21" H 2250 41150 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:0805" H 2400 41200 50  0001 C CNN
+F 3 "" H 2400 41200 50  0001 C CNN
+	1    2400 41200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:0715_CV201210-100K-UNO-TH_Rev3e-eagle-import L2
+U 1 1 4903CFE3
+P 8900 40400
+AR Path="/4903CFE3" Ref="L2"  Part="1" 
+AR Path="/4903CFE3" Ref="L2"  Part="1" 
+F 0 "L2" H 8700 40600 59  0000 L BNN
+F 1 "10uH" H 8850 40600 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:0805" H 8900 40400 50  0001 C CNN
+F 3 "" H 8900 40400 50  0001 C CNN
+	1    8900 40400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LMV358?MM-UNO-TH_Rev3e-eagle-import U5
+U 3 1 0483E6C1
+P 3200 35500
+AR Path="/0483E6C1" Ref="U5"  Part="3" 
+AR Path="/0483E6C1" Ref="U5"  Part="3" 
+F 0 "U5" H 3300 35625 59  0001 L BNN
+F 1 "LMV358IDGKR" H 3300 35300 59  0001 L BNN
+F 2 "UNO-TH_Rev3e:MSOP08" H 3200 35500 50  0001 C CNN
+F 3 "" H 3200 35500 50  0001 C CNN
+	3    3200 35500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:FIDUCIALMOUNT-UNO-TH_Rev3e-eagle-import FD1
+U 1 1 8477E6FE
+P 10900 37200
+F 0 "FD1" H 10900 37200 50  0001 C CNN
+F 1 "FIDUCIALMOUNT" H 10900 37200 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:FIDUCIA-MOUNT" H 10900 37200 50  0001 C CNN
+F 3 "" H 10900 37200 50  0001 C CNN
+	1    10900 37200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:FIDUCIALMOUNT-UNO-TH_Rev3e-eagle-import FD2
+U 1 1 A8005969
+P 10900 37400
+F 0 "FD2" H 10900 37400 50  0001 C CNN
+F 1 "FIDUCIALMOUNT" H 10900 37400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:FIDUCIA-MOUNT" H 10900 37400 50  0001 C CNN
+F 3 "" H 10900 37400 50  0001 C CNN
+	1    10900 37400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:FIDUCIALMOUNT-UNO-TH_Rev3e-eagle-import FD3
+U 1 1 D9300C2C
+P 10900 37600
+F 0 "FD3" H 10900 37600 50  0001 C CNN
+F 1 "FIDUCIALMOUNT" H 10900 37600 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:FIDUCIA-MOUNT" H 10900 37600 50  0001 C CNN
+F 3 "" H 10900 37600 50  0001 C CNN
+	1    10900 37600
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:CPOL-EUD-UNO-TH_Rev3e-eagle-import PC1
+U 1 1 38035270
+P 10700 35900
+AR Path="/38035270" Ref="PC1"  Part="1" 
+AR Path="/38035270" Ref="PC1"  Part="1" 
+F 0 "PC1" H 10400 35900 59  0000 L BNN
+F 1 "47u" H 10400 35800 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:PANASONIC_D" H 10700 35900 50  0001 C CNN
+F 3 "" H 10700 35900 50  0001 C CNN
+	1    10700 35900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:CPOL-EUD-UNO-TH_Rev3e-eagle-import PC2
+U 1 1 D3AC38C5
+P 12200 35900
+AR Path="/D3AC38C5" Ref="PC2"  Part="1" 
+AR Path="/D3AC38C5" Ref="PC2"  Part="1" 
+F 0 "PC2" H 12300 35879 59  0000 L BNN
+F 1 "47u" H 12290 35779 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:PANASONIC_D" H 12200 35900 50  0001 C CNN
+F 3 "" H 12200 35900 50  0001 C CNN
+	1    12200 35900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C7
+U 1 1 2FB4A706
+P 3000 41000
+AR Path="/2FB4A706" Ref="C7"  Part="1" 
+AR Path="/2FB4A706" Ref="C7"  Part="1" 
+F 0 "C7" H 3125 40875 59  0000 L BNN
+F 1 "100n" H 3125 40975 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 3000 41000 50  0001 C CNN
+F 3 "" H 3000 41000 50  0001 C CNN
+	1    3000 41000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C8
+U 1 1 109BEDA1
+P 3200 41100
+AR Path="/109BEDA1" Ref="C8"  Part="1" 
+AR Path="/109BEDA1" Ref="C8"  Part="1" 
+F 0 "C8" H 2925 40875 59  0000 L BNN
+F 1 "1u" H 2925 40775 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 3200 41100 50  0001 C CNN
+F 3 "" H 3200 41100 50  0001 C CNN
+	1    3200 41100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C1
+U 1 1 D2FEF3C4
+P 3700 35600
+AR Path="/D2FEF3C4" Ref="C1"  Part="1" 
+AR Path="/D2FEF3C4" Ref="C1"  Part="1" 
+F 0 "C1" H 3945 35525 59  0000 R TNN
+F 1 "100n" H 4010 35625 59  0000 R TNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 3700 35600 50  0001 C CNN
+F 3 "" H 3700 35600 50  0001 C CNN
+	1    3700 35600
+	1    0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C11
+U 1 1 6627AC77
+P 4000 39400
+AR Path="/6627AC77" Ref="C11"  Part="1" 
+AR Path="/6627AC77" Ref="C11"  Part="1" 
+F 0 "C11" H 3955 39175 59  0000 L BNN
+F 1 "22p" H 3990 39375 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 4000 39400 50  0001 C CNN
+F 3 "" H 4000 39400 50  0001 C CNN
+	1    4000 39400
+	0    1    -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C9
+U 1 1 5878C67E
+P 4000 39800
+AR Path="/5878C67E" Ref="C9"  Part="1" 
+AR Path="/5878C67E" Ref="C9"  Part="1" 
+F 0 "C9" H 4245 39725 59  0000 R TNN
+F 1 "22p" H 4310 39825 59  0000 R TNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 4000 39800 50  0001 C CNN
+F 3 "" H 4000 39800 50  0001 C CNN
+	1    4000 39800
+	0    1    -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C5
+U 1 1 F8724179
+P 8300 39100
+AR Path="/F8724179" Ref="C5"  Part="1" 
+AR Path="/F8724179" Ref="C5"  Part="1" 
+F 0 "C5" H 8360 39115 59  0000 L BNN
+F 1 "100n" H 8360 38915 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 8300 39100 50  0001 C CNN
+F 3 "" H 8300 39100 50  0001 C CNN
+	1    8300 39100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C3
+U 1 1 A81E3F1C
+P 8700 37000
+AR Path="/A81E3F1C" Ref="C3"  Part="1" 
+AR Path="/A81E3F1C" Ref="C3"  Part="1" 
+F 0 "C3" H 8945 36925 59  0000 R TNN
+F 1 "1u" H 9010 37025 59  0000 R TNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 8700 37000 50  0001 C CNN
+F 3 "" H 8700 37000 50  0001 C CNN
+	1    8700 37000
+	1    0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C10
+U 1 1 4854D527
+P 9000 40700
+AR Path="/4854D527" Ref="C10"  Part="1" 
+AR Path="/4854D527" Ref="C10"  Part="1" 
+F 0 "C10" H 9055 40525 59  0000 L BNN
+F 1 "100n" H 9140 40625 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 9000 40700 50  0001 C CNN
+F 3 "" H 9000 40700 50  0001 C CNN
+	1    9000 40700
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C6
+U 1 1 01C77A96
+P 9300 40700
+AR Path="/01C77A96" Ref="C6"  Part="1" 
+AR Path="/01C77A96" Ref="C6"  Part="1" 
+F 0 "C6" H 9295 40775 59  0000 R TNN
+F 1 "100n" H 9310 40925 59  0000 R TNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 9300 40700 50  0001 C CNN
+F 3 "" H 9300 40700 50  0001 C CNN
+	1    9300 40700
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C4
+U 1 1 329800C5
+P 11900 38400
+AR Path="/329800C5" Ref="C4"  Part="1" 
+AR Path="/329800C5" Ref="C4"  Part="1" 
+F 0 "C4" H 11960 38415 59  0000 L BNN
+F 1 "100n" H 11960 38215 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 11900 38400 50  0001 C CNN
+F 3 "" H 11900 38400 50  0001 C CNN
+	1    11900 38400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:C-EU0603-RND-UNO-TH_Rev3e-eagle-import C2
+U 1 1 6797C5EC
+P 12800 36000
+AR Path="/6797C5EC" Ref="C2"  Part="1" 
+AR Path="/6797C5EC" Ref="C2"  Part="1" 
+F 0 "C2" H 13100 35900 59  0000 R TNN
+F 1 "100n" H 13100 36000 59  0000 R TNN
+F 2 "UNO-TH_Rev3e:C0603-ROUND" H 12800 36000 50  0001 C CNN
+F 3 "" H 12800 36000 50  0001 C CNN
+	1    12800 36000
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LEDCHIP-LED0805-UNO-TH_Rev3e-eagle-import TX1
+U 1 1 9E649AC1
+P 8100 41100
+AR Path="/9E649AC1" Ref="TX1"  Part="1" 
+AR Path="/9E649AC1" Ref="TX1"  Part="1" 
+F 0 "TX1" V 8240 40920 59  0000 L BNN
+F 1 "YELLOW" V 8325 40920 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CHIP-LED0805" H 8100 41100 50  0001 C CNN
+F 3 "" H 8100 41100 50  0001 C CNN
+	1    8100 41100
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LEDCHIP-LED0805-UNO-TH_Rev3e-eagle-import RX1
+U 1 1 9B7C30EB
+P 8100 41600
+AR Path="/9B7C30EB" Ref="RX1"  Part="1" 
+AR Path="/9B7C30EB" Ref="RX1"  Part="1" 
+F 0 "RX1" V 8315 41420 59  0000 L BNN
+F 1 "YELLOW" V 8425 41420 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CHIP-LED0805" H 8100 41600 50  0001 C CNN
+F 3 "" H 8100 41600 50  0001 C CNN
+	1    8100 41600
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LEDCHIP-LED0805-UNO-TH_Rev3e-eagle-import L3
+U 1 1 7713D037
+P 8400 36100
+AR Path="/7713D037" Ref="L3"  Part="1" 
+AR Path="/7713D037" Ref="L3"  Part="1" 
+F 0 "L3" V 8540 35920 59  0000 L BNN
+F 1 "YELLOW" V 8625 35920 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CHIP-LED0805" H 8400 36100 50  0001 C CNN
+F 3 "" H 8400 36100 50  0001 C CNN
+	1    8400 36100
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LEDCHIP-LED0805-UNO-TH_Rev3e-eagle-import ON1
+U 1 1 2CD3C111
+P 12400 37000
+AR Path="/2CD3C111" Ref="ON1"  Part="1" 
+AR Path="/2CD3C111" Ref="ON1"  Part="1" 
+F 0 "ON1" V 12540 36820 59  0000 L BNN
+F 1 "GREEN" V 12625 36820 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CHIP-LED0805" H 12400 37000 50  0001 C CNN
+F 3 "" H 12400 37000 50  0001 C CNN
+	1    12400 37000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:VARISTORCN0603-UNO-TH_Rev3e-eagle-import Z1
+U 1 1 FB22FFB5
+P 2300 40300
+AR Path="/FB22FFB5" Ref="Z1"  Part="1" 
+AR Path="/FB22FFB5" Ref="Z1"  Part="1" 
+F 0 "Z1" H 2200 40400 59  0000 L BNN
+F 1 "CG0603MLC-05E" H 2000 40100 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CT_CN0603" H 2300 40300 50  0001 C CNN
+F 3 "" H 2300 40300 50  0001 C CNN
+	1    2300 40300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:VARISTORCN0603-UNO-TH_Rev3e-eagle-import Z2
+U 1 1 0A17FCC4
+P 2700 40300
+AR Path="/0A17FCC4" Ref="Z2"  Part="1" 
+AR Path="/0A17FCC4" Ref="Z2"  Part="1" 
+F 0 "Z2" H 2600 40400 59  0000 L BNN
+F 1 "CG0603MLC-05E" H 2400 40100 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:CT_CN0603" H 2700 40300 50  0001 C CNN
+F 3 "" H 2700 40300 50  0001 C CNN
+	1    2700 40300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:XTAL_S-UNO-TH_Rev3e-eagle-import Y1
+U 1 1 CCF7917D
+P 4400 39600
+AR Path="/CCF7917D" Ref="Y1"  Part="1" 
+AR Path="/CCF7917D" Ref="Y1"  Part="1" 
+F 0 "Y1" H 4200 39750 59  0000 L BNN
+F 1 "16MHz" H 4200 39400 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:QS" H 4400 39600 50  0001 C CNN
+F 3 "" H 4400 39600 50  0001 C CNN
+	1    4400 39600
+	0    1    1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:RESONATORMU-UNO-TH_Rev3e-eagle-import Y2
+U 1 1 F32AC05C
+P 8800 39700
+AR Path="/F32AC05C" Ref="Y2"  Part="1" 
+AR Path="/F32AC05C" Ref="Y2"  Part="1" 
+F 0 "Y2" H 8600 39880 59  0001 L BNN
+F 1 "CSTCE16M0V53-R0 16MHZ" H 8400 39400 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:RESONATOR" H 8800 39700 50  0001 C CNN
+F 3 "" H 8800 39700 50  0001 C CNN
+	1    8800 39700
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PMOSSOT23-UNO-TH_Rev3e-eagle-import T1
+U 1 1 A46BD807
+P 5800 36700
+AR Path="/A46BD807" Ref="T1"  Part="1" 
+AR Path="/A46BD807" Ref="T1"  Part="1" 
+F 0 "T1" H 5900 36800 59  0000 L BNN
+F 1 "FDN340P" H 5900 36700 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:SOT-23" H 5800 36700 50  0001 C CNN
+F 3 "" H 5800 36700 50  0001 C CNN
+	1    5800 36700
+	0    -1   1    0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:TS42-UNO-TH_Rev3e-eagle-import 
+U 1 1 978B32DB
+P 9500 38400
+AR Path="/978B32DB" Ref=""  Part="1" 
+AR Path="/978B32DB" Ref="RESET1"  Part="1" 
+F 0 "RESET1" V 9250 38300 59  0000 L BNN
+F 1 "TS42031-160R-TR-7260" V 9350 38525 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:TS42" H 9500 38400 50  0001 C CNN
+F 3 "" H 9500 38400 50  0001 C CNN
+	1    9500 38400
+	-1   0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-2X2-UNO-TH_Rev3e-eagle-import JP2
+U 1 1 04B897A0
+P 7600 37900
+AR Path="/04B897A0" Ref="JP2"  Part="1" 
+AR Path="/04B897A0" Ref="JP2"  Part="1" 
+F 0 "JP2" H 7250 38125 59  0000 L BNN
+F 1 "2x2 M - NM" H 7250 37700 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:2X02" H 7600 37900 50  0001 C CNN
+F 3 "" H 7600 37900 50  0001 C CNN
+	1    7600 37900
+	0    1    -1   0   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-1X6-UNO-TH_Rev3e-eagle-import AD1
+U 1 1 9D27F543
+P 13100 40200
+AR Path="/9D27F543" Ref="AD1"  Part="1" 
+AR Path="/9D27F543" Ref="AD1"  Part="1" 
+F 0 "AD1" H 12850 40625 59  0000 L BNN
+F 1 "6x1F-H8.5" H 12850 39800 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:1X06" H 13100 40200 50  0001 C CNN
+F 3 "" H 13100 40200 50  0001 C CNN
+	1    13100 40200
+	1    0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PN61729-UNO-TH_Rev3e-eagle-import X2
+U 1 1 1AA758D1
+P 1500 39800
+AR Path="/1AA758D1" Ref="X2"  Part="1" 
+AR Path="/1AA758D1" Ref="X2"  Part="1" 
+F 0 "X2" H 1500 40150 59  0000 L BNN
+F 1 "USB-B_TH" H 1500 40300 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:PN61729" H 1500 39800 50  0001 C CNN
+F 3 "" H 1500 39800 50  0001 C CNN
+	1    1500 39800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-2X3-UNO-TH_Rev3e-eagle-import 
+U 1 1 3E5F4743
+P 3500 38400
+AR Path="/3E5F4743" Ref=""  Part="1" 
+AR Path="/3E5F4743" Ref="ICSP1"  Part="1" 
+F 0 "ICSP1" H 3250 38625 59  0000 L BNN
+F 1 "3x2 M" H 3250 38100 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:2X03" H 3500 38400 50  0001 C CNN
+F 3 "" H 3500 38400 50  0001 C CNN
+	1    3500 38400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-2X3-UNO-TH_Rev3e-eagle-import 
+U 1 1 EC65467E
+P 10800 38600
+AR Path="/EC65467E" Ref=""  Part="1" 
+AR Path="/EC65467E" Ref="ICSP2"  Part="1" 
+F 0 "ICSP2" H 10550 38825 59  0000 L BNN
+F 1 "3x2 M" H 10550 38300 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:2X03" H 10800 38600 50  0001 C CNN
+F 3 "" H 10800 38600 50  0001 C CNN
+	1    10800 38600
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LMV358?MM-UNO-TH_Rev3e-eagle-import U5
+U 1 1 0483E6C9
+P 5800 35500
+AR Path="/0483E6C9" Ref="U5"  Part="1" 
+AR Path="/0483E6C9" Ref="U5"  Part="1" 
+F 0 "U5" H 5900 35625 59  0001 L BNN
+F 1 "LMV358IDGKR" H 5900 35300 59  0001 L BNN
+F 2 "UNO-TH_Rev3e:MSOP08" H 5800 35500 50  0001 C CNN
+F 3 "" H 5800 35500 50  0001 C CNN
+	1    5800 35500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LMV358?MM-UNO-TH_Rev3e-eagle-import U5
+U 2 1 0483E6C5
+P 7600 35800
+AR Path="/0483E6C5" Ref="U5"  Part="2" 
+AR Path="/0483E6C5" Ref="U5"  Part="2" 
+F 0 "U5" H 7700 35925 59  0001 L BNN
+F 1 "LMV358IDGKR" H 7700 35600 59  0001 L BNN
+F 2 "UNO-TH_Rev3e:MSOP08" H 7600 35800 50  0001 C CNN
+F 3 "" H 7600 35800 50  0001 C CNN
+	2    7600 35800
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-1X8-UNO-TH_Rev3e-eagle-import 
+U 1 1 4DB040B7
+P 10500 37400
+AR Path="/4DB040B7" Ref=""  Part="1" 
+AR Path="/4DB040B7" Ref="POWER1"  Part="1" 
+F 0 "POWER1" H 10250 37925 59  0000 L BNN
+F 1 "8x1F-H8.5" H 10250 36900 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:1X08" H 10500 37400 50  0001 C CNN
+F 3 "" H 10500 37400 50  0001 C CNN
+	1    10500 37400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-1X8-UNO-TH_Rev3e-eagle-import 
+U 1 1 E6324B26
+P 13100 41200
+AR Path="/E6324B26" Ref=""  Part="1" 
+AR Path="/E6324B26" Ref="IOL1"  Part="1" 
+F 0 "IOL1" H 12850 41725 59  0000 L BNN
+F 1 "8x1F-H8.5" H 12850 40700 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:1X08" H 13100 41200 50  0001 C CNN
+F 3 "" H 13100 41200 50  0001 C CNN
+	1    13100 41200
+	1    0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:MC33269ST-UNO-TH_Rev3e-eagle-import U1
+U 1 1 F79E38F8
+P 11400 35700
+AR Path="/F79E38F8" Ref="U1"  Part="1" 
+AR Path="/F79E38F8" Ref="U1"  Part="1" 
+F 0 "U1" H 11200 36100 59  0000 L BNN
+F 1 "NCP1117ST50T3G" H 11200 36000 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:SOT223" H 11400 35700 50  0001 C CNN
+F 3 "" H 11400 35700 50  0001 C CNN
+	1    11400 35700
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:PINHD-1X10_ARD-UNO-TH_Rev3e-eagle-import 
+U 1 1 BE1BD901
+P 13100 39200
+AR Path="/BE1BD901" Ref=""  Part="1" 
+AR Path="/BE1BD901" Ref="IOH1"  Part="1" 
+F 0 "IOH1" H 12850 39725 59  0000 L BNN
+F 1 "10x1F-H8.5" H 12850 38500 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:1X10" H 13100 39200 50  0001 C CNN
+F 3 "" H 13100 39200 50  0001 C CNN
+	1    13100 39200
+	1    0    0    1   
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:LP2985-XXDBVR-UNO-TH_Rev3e-eagle-import U2
+U 1 1 2A8BA52A
+P 7800 36900
+AR Path="/2A8BA52A" Ref="U2"  Part="1" 
+AR Path="/2A8BA52A" Ref="U2"  Part="1" 
+F 0 "U2" H 7500 37250 70  0000 L BNN
+F 1 "LP2985-33DBVR" H 7500 36500 70  0000 L BNN
+F 2 "UNO-TH_Rev3e:SOT23-DBV" H 7800 36900 50  0001 C CNN
+F 3 "" H 7800 36900 50  0001 C CNN
+	1    7800 36900
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:POWERSUPPLY_DC21MMX-UNO-TH_Rev3e-eagle-import X1
+U 1 1 528F2B3A
+P 9300 35500
+AR Path="/528F2B3A" Ref="X1"  Part="1" 
+AR Path="/528F2B3A" Ref="X1"  Part="1" 
+F 0 "X1" H 8900 35800 42  0000 L BNN
+F 1 "POWERSUPPLY_DC21MMX" H 8900 35700 42  0000 L BNN
+F 2 "UNO-TH_Rev3e:POWERSUPPLY_DC-21MM" H 9300 35500 50  0001 C CNN
+F 3 "" H 9300 35500 50  0001 C CNN
+	1    9300 35500
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:ATMEGA328P-PU-UNO-TH_Rev3e-eagle-import ZU4
+U 1 1 47223BBB
+P 10500 40400
+AR Path="/47223BBB" Ref="ZU4"  Part="1" 
+AR Path="/47223BBB" Ref="ZU4"  Part="1" 
+F 0 "ZU4" H 9900 41530 59  0000 L BNN
+F 1 "ATMEGA328P-PU" H 9900 39100 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:DIL28-3" H 10500 40400 50  0001 C CNN
+F 3 "" H 10500 40400 50  0001 C CNN
+	1    10500 40400
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:ATMEGA16U2-MU-UNO-TH_Rev3e-eagle-import U3
+U 1 1 B1A428A4
+P 5900 40200
+AR Path="/B1A428A4" Ref="U3"  Part="1" 
+AR Path="/B1A428A4" Ref="U3"  Part="1" 
+F 0 "U3" H 5000 41530 59  0000 L BNN
+F 1 "ATMEGA16U2-MU(R)" H 5000 38900 59  0000 L BNN
+F 2 "UNO-TH_Rev3e:MLF32" H 5900 40200 50  0001 C CNN
+F 3 "" H 5900 40200 50  0001 C CNN
+	1    5900 40200
+	1    0    0    -1  
+$EndComp
+$Comp
+L UNO-TH_Rev3e-rescue:A3-FRAME-UNO-TH_Rev3e-eagle-import FRAME1
+U 1 1 957D5AD7
+P 800 43400
+F 0 "FRAME1" H 800 43400 50  0001 C CNN
+F 1 "DNP" H 800 43400 50  0001 C CNN
+F 2 "UNO-TH_Rev3e:FRAME" H 800 43400 50  0001 C CNN
+F 3 "" H 800 43400 50  0001 C CNN
+	1    800  43400
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
